@@ -1,0 +1,1843 @@
+label_value,score,Act1,Act2,Act3,Res1,Res2,Res3,gender_cat,citizen_cat,age_group,german_speaking_cat,religious_cat
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,65+,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,18-29,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,65+,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,18-29,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,65+,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,18-29,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,30-44,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,18-29,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,65+,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,30-44,T,T
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,F,T,30-44,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,18-29,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,18-29,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,18-29,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,65+,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,65+,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,65+,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,30-44,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,65+,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,18-29,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,65+,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,65+,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,65+,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,65+,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,18-29,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,65+,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,65+,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,65+,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,65+,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,65+,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,65+,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,65+,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,18-29,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,65+,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,65+,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,T
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,18-29,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,65+,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,65+,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,65+,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,65+,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,65+,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,18-29,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,F,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,65+,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,65+,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,65+,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,65+,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,65+,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,65+,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,18-29,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,F
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,18-29,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,18-29,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,30-44,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,30-44,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,65+,F,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,T,F,30-44,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,65+,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,65+,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,65+,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,F,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,T,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,65+,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,65+,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,65+,F,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,65+,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,65+,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,65+,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,18-29,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,65+,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,30-44,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,F,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,T,F,65+,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,65+,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,65+,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,65+,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,T
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,18-29,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,65+,F,T
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,65+,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,65+,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,65+,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,30-44,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,65+,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,18-29,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,F,30-44,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,65+,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,T,F,30-44,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,18-29,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,18-29,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,65+,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,T,T,30-44,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,F,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,30-44,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-pro,HR-dummy,F,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,65+,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,18-29,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,30-44,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,65+,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,65+,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,18-29,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,30-44,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,30-44,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,65+,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,65+,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,65+,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,65+,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,65+,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,65+,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,65+,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,65+,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,30-44,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,T,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,65+,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,65+,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,30-44,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,F,65+,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,F
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,65+,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,18-29,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,F,65+,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,65+,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,0,A08,A12,A01,Online System,HR-pro,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,65+,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,18-29,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,65+,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,65+,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,65+,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,F,T,65+,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,65+,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,65+,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,T,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,65+,F,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,30-44,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,65+,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,65+,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,30-44,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,65+,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,65+,F,F
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,T,F,65+,F,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,30-44,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,18-29,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A11,Online System,HR-pro,HR-dummy,F,F,45-64,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,T,45-64,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,0,A08,A12,A01,Online System,HR-dummy,Senior Partner,T,F,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,T,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,18-29,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,65+,F,T
+1,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,F,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,65+,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,65+,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,65+,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,65+,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,F,65+,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,65+,T,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,F
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,F
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,65+,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-pro,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,65+,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,T,30-44,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,30-44,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,30-44,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,45-64,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,F,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,T,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,T,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,30-44,F,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,T,30-44,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,65+,T,F
+0,0,A08,A12,A01,Online System,HR-dummy,HR-dummy,F,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,T,30-44,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Online System,HR-pro,HR-dummy,T,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,30-44,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,T
+0,0,A08,A12,A01,Online System,HR-pro,HR-dummy,F,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,T,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,T,F,30-44,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,T,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,T
+1,1,A08,A12,A11,Online System,HR-pro,Senior Partner,F,T,30-44,T,T
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,T,45-64,T,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,F,F,45-64,F,T
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,30-44,F,T
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,F,F,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,F,F,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,F,T
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,65+,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,F
+1,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,T,45-64,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,F,T,45-64,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,T,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-pro,T,F,45-64,F,T
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,30-44,T,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,F,F,45-64,F,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,65+,F,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,T,T,30-44,T,T
+0,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,T,45-64,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,45-64,F,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-pro,F,F,30-44,T,T
+1,1,A08,A12,A03,Online System,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,0,A08,A12,A11,Front Desk,HR-pro,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,F,45-64,T,F
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,65+,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,45-64,T,T
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,F,45-64,T,F
+0,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,F,F,45-64,T,T
+0,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,T,T,30-44,T,T
+0,0,A08,A12,A01,Front Desk,HR-dummy,HR-dummy,F,F,45-64,T,T
+1,1,A08,A12,A11,Front Desk,HR-dummy,Senior Partner,F,F,30-44,T,F
+1,1,A08,A12,A03,Online System,HR-pro,HR-dummy,F,T,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-pro,HR-dummy,T,T,45-64,F,T
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,F
+1,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,T,T,45-64,T,F
+1,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,30-44,F,F
+0,1,A08,A12,A03,Online System,HR-dummy,HR-pro,T,F,45-64,F,T
+0,1,A08,A12,A03,Online System,HR-pro,HR-dummy,T,T,45-64,F,T
+0,1,A08,A12,A11,Online System,HR-dummy,HR-dummy,T,F,45-64,F,F
+1,0,A08,A12,A03,Front Desk,HR-pro,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A03,Front Desk,HR-dummy,HR-dummy,T,F,45-64,F,T
+1,0,A08,A12,A11,Front Desk,HR-dummy,HR-dummy,T,F,45-64,T,F
+0,1,A08,A12,A11,Online System,HR-dummy,Senior Partner,F,T,45-64,F,F
+0,1,A08,A12,A03,Online System,HR-pro,HR-pro,F,T,45-64,T,F

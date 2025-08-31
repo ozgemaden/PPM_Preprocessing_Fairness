@@ -1,0 +1,1641 @@
+prefix_len,encoding,attribute,group,group_n,metric,disparity,violation_80pct,severity,harm_dir,small_support
+10,complex,Act1,A08,579,PPR,1.0,False,low,over,False
+10,complex,Act2,A12,579,PPR,1.0,False,low,over,False
+10,complex,Act3,A03,281,PPR,0.9507575757575756,False,low,under,False
+10,complex,Act3,A11,298,PPR,1.0,False,low,over,False
+10,complex,Act4,A03,298,PPR,1.0,False,low,over,False
+10,complex,Act4,A11,281,PPR,0.9507575757575756,False,low,under,False
+10,complex,Act5,A05,372,PPR,1.0,False,low,over,False
+10,complex,Act5,A06,207,PPR,0.4345403899721448,True,severe,under,False
+10,complex,Act6,A02,68,PPR,0.4166666666666666,True,severe,under,False
+10,complex,Act6,A05,207,PPR,1.0,False,low,over,False
+10,complex,Act6,A07,182,PPR,1.1282051282051282,False,moderate,over,False
+10,complex,Act6,A09,122,PPR,0.7564102564102564,True,moderate,under,False
+10,complex,Act7,A02,114,PPR,0.4227642276422764,True,severe,under,False
+10,complex,Act7,A07,278,PPR,1.0,False,low,over,False
+10,complex,Act7,A09,187,PPR,0.6707317073170732,True,high,under,False
+10,complex,Act8,A01,86,PPR,0.3906976744186047,True,severe,under,False
+10,complex,Act8,A02,65,PPR,0.2511627906976744,True,severe,under,False
+10,complex,Act8,A04,222,PPR,1.0,False,low,over,False
+10,complex,Act8,A07,109,PPR,0.3953488372093023,True,severe,under,False
+10,complex,Act8,A09,97,PPR,0.3581395348837209,True,severe,under,False
+10,complex,Act9,A01,198,PPR,0.4417910447761193,True,severe,under,False
+10,complex,Act9,A02,13,PPR,0.0328358208955223,True,severe,under,True
+10,complex,Act9,A04,342,PPR,1.0,False,low,over,False
+10,complex,Act9,A07,10,PPR,0.0238805970149253,True,severe,under,True
+10,complex,Act9,A09,16,PPR,0.0388059701492537,True,severe,under,True
+10,complex,Act10,A01,128,PPR,0.2320819112627986,True,severe,under,False
+10,complex,Act10,A04,158,PPR,0.5255972696245733,True,high,under,False
+10,complex,Act10,A10,293,PPR,1.0,False,low,over,False
+10,complex,Res1,Front Desk,286,PPR,0.9507575757575756,False,low,under,False
+10,complex,Res1,Online System,293,PPR,1.0,False,low,over,False
+10,complex,Res2,HR-dummy,412,PPR,1.0,False,low,over,False
+10,complex,Res2,HR-pro,167,PPR,0.3994565217391304,True,severe,under,False
+10,complex,Res3,HR-dummy,285,PPR,1.0,False,low,over,False
+10,complex,Res3,HR-pro,105,PPR,0.3218390804597701,True,severe,under,False
+10,complex,Res3,Senior Partner,189,PPR,0.6513409961685824,True,high,under,False
+10,complex,Res4,HR-dummy,274,PPR,1.0,False,low,over,False
+10,complex,Res4,HR-pro,109,PPR,0.407563025210084,True,severe,under,False
+10,complex,Res4,Senior Partner,196,PPR,0.7563025210084033,True,moderate,under,False
+10,complex,Res5,Coding Interviewer,372,PPR,1.0,False,low,over,False
+10,complex,Res5,HR-pro,61,PPR,0.116991643454039,True,severe,under,False
+10,complex,Res5,deepResearch Inc.,146,PPR,0.3175487465181058,True,severe,under,False
+10,complex,Res6,Coding Interviewer,579,PPR,1.0,False,low,over,False
+10,complex,Res7,Coding Interviewer,579,PPR,1.0,False,low,over,False
+10,complex,Res8,Coding Interviewer,271,PPR,1.0,False,low,over,False
+10,complex,Res8,HR-dummy,26,PPR,0.1157407407407407,True,severe,under,True
+10,complex,Res8,HR-pro and Senior Partner,222,PPR,0.9953703703703702,False,low,under,False
+10,complex,Res8,Senior Partner,60,PPR,0.2731481481481481,True,severe,under,False
+10,complex,Res9,Coding Interviewer,39,PPR,0.0955223880597014,True,severe,under,False
+10,complex,Res9,HR-dummy,82,PPR,0.1791044776119403,True,severe,under,False
+10,complex,Res9,HR-pro and Senior Partner,342,PPR,1.0,False,low,over,False
+10,complex,Res9,Senior Partner,116,PPR,0.2626865671641791,True,severe,under,False
+10,complex,Res10,HR-dummy,56,PPR,0.0887372013651877,True,severe,under,False
+10,complex,Res10,HR-pro,293,PPR,1.0,False,low,over,False
+10,complex,Res10,HR-pro and Senior Partner,158,PPR,0.5255972696245733,True,high,under,False
+10,complex,Res10,Senior Partner,72,PPR,0.1433447098976109,True,severe,under,False
+10,complex,gender_cat,F,250,PPR,0.6885245901639344,True,high,under,False
+10,complex,gender_cat,T,329,PPR,1.0,False,low,over,False
+10,complex,citizen_cat,F,229,PPR,0.6401273885350319,True,high,under,False
+10,complex,citizen_cat,T,350,PPR,1.0,False,low,over,False
+10,complex,age_group,18-29,6,PPR,0.0182370820668693,True,severe,under,True
+10,complex,age_group,30-44,164,PPR,0.4437689969604864,True,severe,under,False
+10,complex,age_group,45-64,365,PPR,1.0,False,low,over,False
+10,complex,age_group,65+,44,PPR,0.1033434650455927,True,severe,under,False
+10,complex,german_speaking_cat,F,234,PPR,0.6453674121405751,True,high,under,False
+10,complex,german_speaking_cat,T,345,PPR,1.0,False,low,over,False
+10,complex,religious_cat,F,252,PPR,0.7281879194630873,True,high,under,False
+10,complex,religious_cat,T,327,PPR,1.0,False,low,over,False
+10,complex,Act1,A08,579,PPR,1.0,False,low,over,False
+10,complex,Act2,A12,579,PPR,1.0,False,low,over,False
+10,complex,Act3,A03,281,PPR,1.0082767173514504,False,low,over,False
+10,complex,Act3,A11,298,PPR,1.0,False,low,over,False
+10,complex,Act4,A03,298,PPR,1.0,False,low,over,False
+10,complex,Act4,A11,281,PPR,1.0082767173514504,False,low,over,False
+10,complex,Act5,A05,372,PPR,1.0,False,low,over,False
+10,complex,Act5,A06,207,PPR,0.7809131645876226,True,moderate,under,False
+10,complex,Act6,A02,68,PPR,1.2683823529411764,True,high,over,False
+10,complex,Act6,A05,207,PPR,1.0,False,low,over,False
+10,complex,Act6,A07,182,PPR,1.283178360101437,True,high,over,False
+10,complex,Act6,A09,122,PPR,1.2834174022698612,True,high,over,False
+10,complex,Act7,A02,114,PPR,1.0309513621452002,False,low,over,False
+10,complex,Act7,A07,278,PPR,1.0,False,low,over,False
+10,complex,Act7,A09,187,PPR,0.9971305595408896,False,low,under,False
+10,complex,Act8,A01,86,PPR,1.0085451595457005,False,low,over,False
+10,complex,Act8,A02,65,PPR,0.8578175313059034,False,moderate,under,False
+10,complex,Act8,A04,222,PPR,1.0,False,low,over,False
+10,complex,Act8,A07,109,PPR,0.8052058886281204,False,moderate,under,False
+10,complex,Act8,A09,97,PPR,0.8196595540637737,False,moderate,under,False
+10,complex,Act9,A01,198,PPR,0.7630936227951154,True,moderate,under,False
+10,complex,Act9,A02,13,PPR,0.8638346727898967,False,moderate,under,True
+10,complex,Act9,A04,342,PPR,1.0,False,low,over,False
+10,complex,Act9,A07,10,PPR,0.8167164179104478,False,moderate,under,True
+10,complex,Act9,A09,16,PPR,0.8294776119402986,False,moderate,under,True
+10,complex,Act10,A01,128,PPR,0.53125,True,high,under,False
+10,complex,Act10,A04,158,PPR,0.9746835443037974,False,low,under,False
+10,complex,Act10,A10,293,PPR,1.0,False,low,over,False
+10,complex,Res1,Front Desk,286,PPR,0.9740278660733206,False,low,under,False
+10,complex,Res1,Online System,293,PPR,1.0,False,low,over,False
+10,complex,Res2,HR-dummy,412,PPR,1.0,False,low,over,False
+10,complex,Res2,HR-pro,167,PPR,0.9854855506378548,False,low,under,False
+10,complex,Res3,HR-dummy,285,PPR,1.0,False,low,over,False
+10,complex,Res3,HR-pro,105,PPR,0.8735632183908046,False,moderate,under,False
+10,complex,Res3,Senior Partner,189,PPR,0.9821808672383384,False,low,under,False
+10,complex,Res4,HR-dummy,274,PPR,1.0,False,low,over,False
+10,complex,Res4,HR-pro,109,PPR,1.0245162285097524,False,low,over,False
+10,complex,Res4,Senior Partner,196,PPR,1.0572800548790944,False,low,over,False
+10,complex,Res5,Coding Interviewer,372,PPR,1.0,False,low,over,False
+10,complex,Res5,HR-pro,61,PPR,0.713457235490205,True,high,under,False
+10,complex,Res5,deepResearch Inc.,146,PPR,0.8090968061968177,False,moderate,under,False
+10,complex,Res6,Coding Interviewer,579,PPR,1.0,False,low,over,False
+10,complex,Res7,Coding Interviewer,579,PPR,1.0,False,low,over,False
+10,complex,Res8,Coding Interviewer,271,PPR,1.0,False,low,over,False
+10,complex,Res8,HR-dummy,26,PPR,1.206374643874644,False,moderate,over,True
+10,complex,Res8,HR-pro and Senior Partner,222,PPR,1.2150692359025692,False,moderate,over,False
+10,complex,Res8,Senior Partner,60,PPR,1.233719135802469,False,moderate,over,False
+10,complex,Res9,Coding Interviewer,39,PPR,0.8376578645235362,False,moderate,under,False
+10,complex,Res9,HR-dummy,82,PPR,0.7469967236985803,True,high,under,False
+10,complex,Res9,HR-pro and Senior Partner,342,PPR,1.0,False,low,over,False
+10,complex,Res9,Senior Partner,116,PPR,0.7744724652599073,True,moderate,under,False
+10,complex,Res10,HR-dummy,56,PPR,0.4642857142857143,True,severe,under,False
+10,complex,Res10,HR-pro,293,PPR,1.0,False,low,over,False
+10,complex,Res10,HR-pro and Senior Partner,158,PPR,0.9746835443037974,False,low,under,False
+10,complex,Res10,Senior Partner,72,PPR,0.5833333333333334,True,high,under,False
+10,complex,gender_cat,F,250,PPR,0.9060983606557376,False,low,under,False
+10,complex,gender_cat,T,329,PPR,1.0,False,low,over,False
+10,complex,citizen_cat,F,229,PPR,0.9783606374989572,False,low,under,False
+10,complex,citizen_cat,T,350,PPR,1.0,False,low,over,False
+10,complex,age_group,18-29,6,PPR,1.109422492401216,False,moderate,over,True
+10,complex,age_group,30-44,164,PPR,0.9876566090888872,False,low,under,False
+10,complex,age_group,45-64,365,PPR,1.0,False,low,over,False
+10,complex,age_group,65+,44,PPR,0.857281016855485,False,moderate,under,False
+10,complex,german_speaking_cat,F,234,PPR,0.9515032358482838,False,low,under,False
+10,complex,german_speaking_cat,T,345,PPR,1.0,False,low,over,False
+10,complex,religious_cat,F,252,PPR,0.9449105145413872,False,low,under,False
+10,complex,religious_cat,T,327,PPR,1.0,False,low,over,False
+10,complex,Act1,A08,579,PPV,1.0,False,low,over,False
+10,complex,Act2,A12,579,PPV,1.0,False,low,over,False
+10,complex,Act3,A03,281,PPV,1.0069489483924765,False,low,over,False
+10,complex,Act3,A11,298,PPV,1.0,False,low,over,False
+10,complex,Act4,A03,298,PPV,1.0,False,low,over,False
+10,complex,Act4,A11,281,PPV,1.0069489483924765,False,low,over,False
+10,complex,Act5,A05,372,PPV,1.0,False,low,over,False
+10,complex,Act5,A06,207,PPV,0.9631770383174878,False,low,under,False
+10,complex,Act6,A02,68,PPV,1.014765100671141,False,low,over,False
+10,complex,Act6,A05,207,PPV,1.0,False,low,over,False
+10,complex,Act6,A07,182,PPV,1.041031116534472,False,low,over,False
+10,complex,Act6,A09,122,PPV,1.046979865771812,False,low,over,False
+10,complex,Act7,A02,114,PPV,1.0236748545572074,False,low,over,False
+10,complex,Act7,A07,278,PPV,1.0,False,low,over,False
+10,complex,Act7,A09,187,PPV,1.0273491214667685,False,low,over,False
+10,complex,Act8,A01,86,PPV,1.0,False,low,over,False
+10,complex,Act8,A02,65,PPV,0.9444444444444444,False,low,under,False
+10,complex,Act8,A04,222,PPV,1.0,False,low,over,False
+10,complex,Act8,A07,109,PPV,0.9882352941176472,False,low,under,False
+10,complex,Act8,A09,97,PPV,0.922077922077922,False,low,under,False
+10,complex,Act9,A01,198,PPV,0.9584246408570732,False,low,under,False
+10,complex,Act9,A02,13,PPV,0.9145509145509144,False,low,under,True
+10,complex,Act9,A04,342,PPV,1.0,False,low,over,False
+10,complex,Act9,A07,10,PPV,1.006006006006006,False,low,over,True
+10,complex,Act9,A09,16,PPV,1.006006006006006,False,low,over,True
+10,complex,Act10,A01,128,PPV,0.9264705882352942,False,low,under,False
+10,complex,Act10,A04,158,PPV,0.9675324675324676,False,low,under,False
+10,complex,Act10,A10,293,PPV,1.0,False,low,over,False
+10,complex,Res1,Front Desk,286,PPV,0.9911124731841864,False,low,under,False
+10,complex,Res1,Online System,293,PPV,1.0,False,low,over,False
+10,complex,Res2,HR-dummy,412,PPV,1.0,False,low,over,False
+10,complex,Res2,HR-pro,167,PPV,0.9889126921486826,False,low,under,False
+10,complex,Res3,HR-dummy,285,PPV,1.0,False,low,over,False
+10,complex,Res3,HR-pro,105,PPV,1.0235294117647058,False,low,over,False
+10,complex,Res3,Senior Partner,189,PPV,0.9994463667820068,False,low,under,False
+10,complex,Res4,HR-dummy,274,PPV,1.0,False,low,over,False
+10,complex,Res4,HR-pro,109,PPV,0.981443298969072,False,low,under,False
+10,complex,Res4,Senior Partner,196,PPV,0.9902600472813238,False,low,under,False
+10,complex,Res5,Coding Interviewer,372,PPV,1.0,False,low,over,False
+10,complex,Res5,HR-pro,61,PPV,0.9604066345639378,False,low,under,False
+10,complex,Res5,deepResearch Inc.,146,PPV,0.964197713384585,False,low,under,False
+10,complex,Res6,Coding Interviewer,579,PPV,1.0,False,low,over,False
+10,complex,Res7,Coding Interviewer,579,PPV,1.0,False,low,over,False
+10,complex,Res8,Coding Interviewer,271,PPV,1.0,False,low,over,False
+10,complex,Res8,HR-dummy,26,PPV,1.0485436893203883,False,low,over,True
+10,complex,Res8,HR-pro and Senior Partner,222,PPV,1.0485436893203883,False,low,over,False
+10,complex,Res8,Senior Partner,60,PPV,1.0485436893203883,False,low,over,False
+10,complex,Res9,Coding Interviewer,39,PPV,0.9745683183183182,False,low,under,False
+10,complex,Res9,HR-dummy,82,PPV,0.9389389389389388,False,low,under,False
+10,complex,Res9,HR-pro and Senior Partner,342,PPV,1.0,False,low,over,False
+10,complex,Res9,Senior Partner,116,PPV,0.9717103467103468,False,low,under,False
+10,complex,Res10,HR-dummy,56,PPV,0.9615384615384616,False,low,under,False
+10,complex,Res10,HR-pro,293,PPV,1.0,False,low,over,False
+10,complex,Res10,HR-pro and Senior Partner,158,PPV,0.9675324675324676,False,low,under,False
+10,complex,Res10,Senior Partner,72,PPV,0.9047619047619048,False,low,under,False
+10,complex,gender_cat,F,250,PPV,1.0171556838223506,False,low,over,False
+10,complex,gender_cat,T,329,PPV,1.0,False,low,over,False
+10,complex,citizen_cat,F,229,PPV,1.0075356118430647,False,low,over,False
+10,complex,citizen_cat,T,350,PPV,1.0,False,low,over,False
+10,complex,age_group,18-29,6,PPV,1.0249221183800623,False,low,over,True
+10,complex,age_group,30-44,164,PPV,1.0179021038706098,False,low,over,False
+10,complex,age_group,45-64,365,PPV,1.0,False,low,over,False
+10,complex,age_group,65+,44,PPV,0.9947773501924134,False,low,under,False
+10,complex,german_speaking_cat,F,234,PPV,0.982857509051876,False,low,under,False
+10,complex,german_speaking_cat,T,345,PPV,1.0,False,low,over,False
+10,complex,religious_cat,F,252,PPV,1.0017360015150558,False,low,over,False
+10,complex,religious_cat,T,327,PPV,1.0,False,low,over,False
+10,complex,Act1,A08,579,FDR,1.0,False,low,lower,False
+10,complex,Act2,A12,579,FDR,1.0,False,low,lower,False
+10,complex,Act3,A03,281,FDR,0.7011952191235059,True,high,lower,False
+10,complex,Act3,A11,298,FDR,1.0,False,low,lower,False
+10,complex,Act4,A03,298,FDR,1.0,False,low,lower,False
+10,complex,Act4,A11,281,FDR,0.7011952191235059,True,high,lower,False
+10,complex,Act5,A05,372,FDR,1.0,False,low,lower,False
+10,complex,Act5,A06,207,FDR,5.369658119658119,True,severe,higher,False
+10,complex,Act6,A02,68,FDR,0.6857142857142857,True,high,lower,False
+10,complex,Act6,A05,207,FDR,1.0,False,low,lower,False
+10,complex,Act6,A07,182,FDR,0.1266233766233766,True,severe,lower,False
+10,complex,Act6,A09,122,FDR,0.0,True,severe,lower,False
+10,complex,Act7,A02,114,FDR,0.2956730769230769,True,severe,lower,False
+10,complex,Act7,A07,278,FDR,1.0,False,low,lower,False
+10,complex,Act7,A09,187,FDR,0.1863636363636363,True,severe,lower,False
+10,complex,Act8,A01,86,FDR,,False,,,False
+10,complex,Act8,A02,65,FDR,10.0,True,severe,higher,False
+10,complex,Act8,A04,222,FDR,,False,,,False
+10,complex,Act8,A07,109,FDR,10.0,True,severe,higher,False
+10,complex,Act8,A09,97,FDR,10.0,True,severe,higher,False
+10,complex,Act9,A01,198,FDR,7.922297297297297,True,severe,higher,False
+10,complex,Act9,A02,13,FDR,15.227272727272728,True,severe,higher,True
+10,complex,Act9,A04,342,FDR,1.0,False,low,lower,False
+10,complex,Act9,A07,10,FDR,0.0,True,severe,lower,True
+10,complex,Act9,A09,16,FDR,0.0,True,severe,lower,True
+10,complex,Act10,A01,128,FDR,10.0,True,severe,higher,False
+10,complex,Act10,A04,158,FDR,10.0,True,severe,higher,False
+10,complex,Act10,A10,293,FDR,,False,,,False
+10,complex,Res1,Front Desk,286,FDR,1.5776892430278884,True,severe,higher,False
+10,complex,Res1,Online System,293,FDR,1.0,False,low,lower,False
+10,complex,Res2,HR-dummy,412,FDR,1.0,False,low,lower,False
+10,complex,Res2,HR-pro,167,FDR,1.6689342403628118,True,severe,higher,False
+10,complex,Res3,HR-dummy,285,FDR,1.0,False,low,lower,False
+10,complex,Res3,HR-pro,105,FDR,0.0,True,severe,lower,False
+10,complex,Res3,Senior Partner,189,FDR,1.0235294117647058,False,low,higher,False
+10,complex,Res4,HR-dummy,274,FDR,1.0,False,low,lower,False
+10,complex,Res4,HR-pro,109,FDR,2.453608247422681,True,severe,higher,False
+10,complex,Res4,Senior Partner,196,FDR,1.762962962962963,True,severe,higher,False
+10,complex,Res5,Coding Interviewer,372,FDR,1.0,False,low,lower,False
+10,complex,Res5,HR-pro,61,FDR,5.698412698412698,True,severe,higher,False
+10,complex,Res5,deepResearch Inc.,146,FDR,5.2485380116959055,True,severe,higher,False
+10,complex,Res6,Coding Interviewer,579,FDR,1.0,False,low,lower,False
+10,complex,Res7,Coding Interviewer,579,FDR,1.0,False,low,lower,False
+10,complex,Res8,Coding Interviewer,271,FDR,1.0,False,low,lower,False
+10,complex,Res8,HR-dummy,26,FDR,0.0,True,severe,lower,True
+10,complex,Res8,HR-pro and Senior Partner,222,FDR,0.0,True,severe,lower,False
+10,complex,Res8,Senior Partner,60,FDR,0.0,True,severe,lower,False
+10,complex,Res9,Coding Interviewer,39,FDR,5.234375,True,severe,higher,False
+10,complex,Res9,HR-dummy,82,FDR,11.166666666666666,True,severe,higher,False
+10,complex,Res9,HR-pro and Senior Partner,342,FDR,1.0,False,low,lower,False
+10,complex,Res9,Senior Partner,116,FDR,5.7102272727272725,True,severe,higher,False
+10,complex,Res10,HR-dummy,56,FDR,10.0,True,severe,higher,False
+10,complex,Res10,HR-pro,293,FDR,,False,,,False
+10,complex,Res10,HR-pro and Senior Partner,158,FDR,10.0,True,severe,higher,False
+10,complex,Res10,Senior Partner,72,FDR,10.0,True,severe,higher,False
+10,complex,gender_cat,F,250,FDR,0.3630952380952381,True,severe,lower,False
+10,complex,gender_cat,T,329,FDR,1.0,False,low,lower,False
+10,complex,citizen_cat,F,229,FDR,0.6695095948827292,True,high,lower,False
+10,complex,citizen_cat,T,350,FDR,1.0,False,low,lower,False
+10,complex,age_group,18-29,6,FDR,0.0,True,severe,lower,True
+10,complex,age_group,30-44,164,FDR,0.2816780821917808,True,severe,lower,False
+10,complex,age_group,45-64,365,FDR,1.0,False,low,lower,False
+10,complex,age_group,65+,44,FDR,1.2095588235294117,False,moderate,higher,False
+10,complex,german_speaking_cat,F,234,FDR,2.3242574257425743,True,severe,higher,False
+10,complex,german_speaking_cat,T,345,FDR,1.0,False,low,lower,False
+10,complex,religious_cat,F,252,FDR,0.915514592933948,False,low,lower,False
+10,complex,religious_cat,T,327,FDR,1.0,False,low,lower,False
+10,complex,Act1,A08,579,FOR,1.0,False,low,lower,False
+10,complex,Act2,A12,579,FOR,1.0,False,low,lower,False
+10,complex,Act3,A03,281,FOR,2.6444444444444444,True,severe,higher,False
+10,complex,Act3,A11,298,FOR,1.0,False,low,lower,False
+10,complex,Act4,A03,298,FOR,1.0,False,low,lower,False
+10,complex,Act4,A11,281,FOR,2.6444444444444444,True,severe,higher,False
+10,complex,Act5,A05,372,FOR,1.0,False,low,lower,False
+10,complex,Act5,A06,207,FOR,1.0196078431372548,False,low,higher,False
+10,complex,Act6,A02,68,FOR,0.0,True,severe,lower,False
+10,complex,Act6,A05,207,FOR,1.0,False,low,lower,False
+10,complex,Act6,A07,182,FOR,1.0625,False,low,higher,False
+10,complex,Act6,A09,122,FOR,1.59375,True,severe,higher,False
+10,complex,Act7,A02,114,FOR,1.6,True,severe,higher,False
+10,complex,Act7,A07,278,FOR,1.0,False,low,lower,False
+10,complex,Act7,A09,187,FOR,1.4545454545454546,True,high,higher,False
+10,complex,Act8,A01,86,FOR,,False,,,False
+10,complex,Act8,A02,65,FOR,10.0,True,severe,higher,False
+10,complex,Act8,A04,222,FOR,,False,,,False
+10,complex,Act8,A07,109,FOR,10.0,True,severe,higher,False
+10,complex,Act8,A09,97,FOR,10.0,True,severe,higher,False
+10,complex,Act9,A01,198,FOR,0.0839999999999999,True,severe,lower,False
+10,complex,Act9,A02,13,FOR,0.7,True,high,lower,True
+10,complex,Act9,A04,342,FOR,1.0,False,low,lower,False
+10,complex,Act9,A07,10,FOR,0.0,True,severe,lower,True
+10,complex,Act9,A09,16,FOR,0.4666666666666666,True,severe,lower,True
+10,complex,Act10,A01,128,FOR,,False,,,False
+10,complex,Act10,A04,158,FOR,,False,,,False
+10,complex,Act10,A10,293,FOR,,False,,,False
+10,complex,Res1,Front Desk,286,FOR,1.2428571428571429,False,moderate,higher,False
+10,complex,Res1,Online System,293,FOR,1.0,False,low,lower,False
+10,complex,Res2,HR-dummy,412,FOR,1.0,False,low,lower,False
+10,complex,Res2,HR-pro,167,FOR,1.4666666666666668,True,high,higher,False
+10,complex,Res3,HR-dummy,285,FOR,1.0,False,low,lower,False
+10,complex,Res3,HR-pro,105,FOR,2.857142857142857,True,severe,higher,False
+10,complex,Res3,Senior Partner,189,FOR,1.894736842105263,True,severe,higher,False
+10,complex,Res4,HR-dummy,274,FOR,1.0,False,low,lower,False
+10,complex,Res4,HR-pro,109,FOR,2.0,True,severe,higher,False
+10,complex,Res4,Senior Partner,196,FOR,3.75,True,severe,higher,False
+10,complex,Res5,Coding Interviewer,372,FOR,1.0,False,low,lower,False
+10,complex,Res5,HR-pro,61,FOR,1.3684210526315788,True,high,higher,False
+10,complex,Res5,deepResearch Inc.,146,FOR,0.8125,False,moderate,lower,False
+10,complex,Res6,Coding Interviewer,579,FOR,1.0,False,low,lower,False
+10,complex,Res7,Coding Interviewer,579,FOR,1.0,False,low,lower,False
+10,complex,Res8,Coding Interviewer,271,FOR,1.0,False,low,lower,False
+10,complex,Res8,HR-dummy,26,FOR,0.0,True,severe,lower,True
+10,complex,Res8,HR-pro and Senior Partner,222,FOR,0.0,True,severe,lower,False
+10,complex,Res8,Senior Partner,60,FOR,0.0,True,severe,lower,False
+10,complex,Res9,Coding Interviewer,39,FOR,0.3999999999999999,True,severe,lower,False
+10,complex,Res9,HR-dummy,82,FOR,0.1272727272727272,True,severe,lower,False
+10,complex,Res9,HR-pro and Senior Partner,342,FOR,1.0,False,low,lower,False
+10,complex,Res9,Senior Partner,116,FOR,0.0499999999999999,True,severe,lower,False
+10,complex,Res10,HR-dummy,56,FOR,,False,,,False
+10,complex,Res10,HR-pro,293,FOR,,False,,,False
+10,complex,Res10,HR-pro and Senior Partner,158,FOR,,False,,,False
+10,complex,Res10,Senior Partner,72,FOR,,False,,,False
+10,complex,gender_cat,F,250,FOR,1.4,True,high,higher,False
+10,complex,gender_cat,T,329,FOR,1.0,False,low,lower,False
+10,complex,citizen_cat,F,229,FOR,1.2857142857142856,True,high,higher,False
+10,complex,citizen_cat,T,350,FOR,1.0,False,low,lower,False
+10,complex,age_group,18-29,6,FOR,,False,,,True
+10,complex,age_group,30-44,164,FOR,1.3333333333333333,True,high,higher,False
+10,complex,age_group,45-64,365,FOR,1.0,False,low,lower,False
+10,complex,age_group,65+,44,FOR,0.0,True,severe,lower,False
+10,complex,german_speaking_cat,F,234,FOR,2.333333333333333,True,severe,higher,False
+10,complex,german_speaking_cat,T,345,FOR,1.0,False,low,lower,False
+10,complex,religious_cat,F,252,FOR,0.8285714285714285,False,moderate,lower,False
+10,complex,religious_cat,T,327,FOR,1.0,False,low,lower,False
+10,complex,Act1,A08,579,FPR,1.0,False,low,lower,False
+10,complex,Act2,A12,579,FPR,1.0,False,low,lower,False
+10,complex,Act3,A03,281,FPR,0.9135802469135802,False,low,lower,False
+10,complex,Act3,A11,298,FPR,1.0,False,low,lower,False
+10,complex,Act4,A03,298,FPR,1.0,False,low,lower,False
+10,complex,Act4,A11,281,FPR,0.9135802469135802,False,low,lower,False
+10,complex,Act5,A05,372,FPR,1.0,False,low,lower,False
+10,complex,Act5,A06,207,FPR,0.6533333333333334,True,high,lower,False
+10,complex,Act6,A02,68,FPR,2.857142857142857,True,severe,higher,False
+10,complex,Act6,A05,207,FPR,1.0,False,low,lower,False
+10,complex,Act6,A07,182,FPR,1.1904761904761902,False,moderate,higher,False
+10,complex,Act6,A09,122,FPR,0.0,True,severe,lower,False
+10,complex,Act7,A02,114,FPR,0.5,True,severe,lower,False
+10,complex,Act7,A07,278,FPR,1.0,False,low,lower,False
+10,complex,Act7,A09,187,FPR,0.2368421052631578,True,severe,lower,False
+10,complex,Act8,A01,86,FPR,,False,,,False
+10,complex,Act8,A02,65,FPR,10.0,True,severe,higher,False
+10,complex,Act8,A04,222,FPR,,False,,,False
+10,complex,Act8,A07,109,FPR,10.0,True,severe,higher,False
+10,complex,Act8,A09,97,FPR,10.0,True,severe,higher,False
+10,complex,Act9,A01,198,FPR,0.2592592592592592,True,severe,lower,False
+10,complex,Act9,A02,13,FPR,1.0,False,low,lower,True
+10,complex,Act9,A04,342,FPR,1.0,False,low,lower,False
+10,complex,Act9,A07,10,FPR,0.0,True,severe,lower,True
+10,complex,Act9,A09,16,FPR,0.0,True,severe,lower,True
+10,complex,Act10,A01,128,FPR,,False,,,False
+10,complex,Act10,A04,158,FPR,,False,,,False
+10,complex,Act10,A10,293,FPR,,False,,,False
+10,complex,Res1,Front Desk,286,FPR,1.2428571428571429,False,moderate,higher,False
+10,complex,Res1,Online System,293,FPR,1.0,False,low,lower,False
+10,complex,Res2,HR-dummy,412,FPR,1.0,False,low,lower,False
+10,complex,Res2,HR-pro,167,FPR,1.4666666666666668,True,high,higher,False
+10,complex,Res3,HR-dummy,285,FPR,1.0,False,low,lower,False
+10,complex,Res3,HR-pro,105,FPR,0.0,True,severe,lower,False
+10,complex,Res3,Senior Partner,189,FPR,0.9333333333333336,False,low,lower,False
+10,complex,Res4,HR-dummy,274,FPR,1.0,False,low,lower,False
+10,complex,Res4,HR-pro,109,FPR,2.7692307692307696,True,severe,higher,False
+10,complex,Res4,Senior Partner,196,FPR,3.2,True,severe,higher,False
+10,complex,Res5,Coding Interviewer,372,FPR,1.0,False,low,lower,False
+10,complex,Res5,HR-pro,61,FPR,0.5490196078431373,True,high,lower,False
+10,complex,Res5,deepResearch Inc.,146,FPR,0.7070707070707072,True,high,lower,False
+10,complex,Res6,Coding Interviewer,579,FPR,1.0,False,low,lower,False
+10,complex,Res7,Coding Interviewer,579,FPR,1.0,False,low,lower,False
+10,complex,Res8,Coding Interviewer,271,FPR,1.0,False,low,lower,False
+10,complex,Res8,HR-dummy,26,FPR,0.0,True,severe,lower,True
+10,complex,Res8,HR-pro and Senior Partner,222,FPR,0.0,True,severe,lower,False
+10,complex,Res8,Senior Partner,60,FPR,0.0,True,severe,lower,False
+10,complex,Res9,Coding Interviewer,39,FPR,0.3333333333333333,True,severe,lower,False
+10,complex,Res9,HR-dummy,82,FPR,0.3333333333333333,True,severe,lower,False
+10,complex,Res9,HR-pro and Senior Partner,342,FPR,1.0,False,low,lower,False
+10,complex,Res9,Senior Partner,116,FPR,0.2,True,severe,lower,False
+10,complex,Res10,HR-dummy,56,FPR,,False,,,False
+10,complex,Res10,HR-pro,293,FPR,,False,,,False
+10,complex,Res10,HR-pro and Senior Partner,158,FPR,,False,,,False
+10,complex,Res10,Senior Partner,72,FPR,,False,,,False
+10,complex,gender_cat,F,250,FPR,0.2071428571428571,True,severe,lower,False
+10,complex,gender_cat,T,329,FPR,1.0,False,low,lower,False
+10,complex,citizen_cat,F,229,FPR,0.6263736263736265,True,high,lower,False
+10,complex,citizen_cat,T,350,FPR,1.0,False,low,lower,False
+10,complex,age_group,18-29,6,FPR,,False,,,True
+10,complex,age_group,30-44,164,FPR,0.3166666666666667,True,severe,lower,False
+10,complex,age_group,45-64,365,FPR,1.0,False,low,lower,False
+10,complex,age_group,65+,44,FPR,0.4318181818181819,True,severe,lower,False
+10,complex,german_speaking_cat,F,234,FPR,1.596774193548387,True,severe,higher,False
+10,complex,german_speaking_cat,T,345,FPR,1.0,False,low,lower,False
+10,complex,religious_cat,F,252,FPR,0.588235294117647,True,high,lower,False
+10,complex,religious_cat,T,327,FPR,1.0,False,low,lower,False
+10,complex,Act1,A08,579,FNR,1.0,False,low,lower,False
+10,complex,Act2,A12,579,FNR,1.0,False,low,lower,False
+10,complex,Act3,A03,281,FNR,2.3976377952755907,True,severe,higher,False
+10,complex,Act3,A11,298,FNR,1.0,False,low,lower,False
+10,complex,Act4,A03,298,FNR,1.0,False,low,lower,False
+10,complex,Act4,A11,281,FNR,2.3976377952755907,True,severe,higher,False
+10,complex,Act5,A05,372,FNR,1.0,False,low,lower,False
+10,complex,Act5,A06,207,FNR,9.121019108280256,True,severe,higher,False
+10,complex,Act6,A02,68,FNR,0.0,True,severe,lower,False
+10,complex,Act6,A05,207,FNR,1.0,False,low,lower,False
+10,complex,Act6,A07,182,FNR,0.1115056818181818,True,severe,lower,False
+10,complex,Act6,A09,122,FNR,0.1649159663865546,True,severe,lower,False
+10,complex,Act7,A02,114,FNR,1.1523809523809525,False,moderate,higher,False
+10,complex,Act7,A07,278,FNR,1.0,False,low,lower,False
+10,complex,Act7,A09,187,FNR,1.4404761904761905,True,high,higher,False
+10,complex,Act8,A01,86,FNR,,False,,,False
+10,complex,Act8,A02,65,FNR,10.0,True,severe,higher,False
+10,complex,Act8,A04,222,FNR,,False,,,False
+10,complex,Act8,A07,109,FNR,10.0,True,severe,higher,False
+10,complex,Act8,A09,97,FNR,10.0,True,severe,higher,False
+10,complex,Act9,A01,198,FNR,1.4083333333333334,True,high,higher,False
+10,complex,Act9,A02,13,FNR,6.145454545454546,True,severe,higher,True
+10,complex,Act9,A04,342,FNR,1.0,False,low,lower,False
+10,complex,Act9,A07,10,FNR,0.0,True,severe,lower,True
+10,complex,Act9,A09,16,FNR,4.828571428571428,True,severe,higher,True
+10,complex,Act10,A01,128,FNR,10.0,True,severe,higher,False
+10,complex,Act10,A04,158,FNR,10.0,True,severe,higher,False
+10,complex,Act10,A10,293,FNR,,False,,,False
+10,complex,Res1,Front Desk,286,FNR,1.5776892430278884,True,severe,higher,False
+10,complex,Res1,Online System,293,FNR,1.0,False,low,lower,False
+10,complex,Res2,HR-dummy,412,FNR,1.0,False,low,lower,False
+10,complex,Res2,HR-pro,167,FNR,1.6689342403628118,True,severe,higher,False
+10,complex,Res3,HR-dummy,285,FNR,1.0,False,low,lower,False
+10,complex,Res3,HR-pro,105,FNR,7.219101123595506,True,severe,higher,False
+10,complex,Res3,Senior Partner,189,FNR,2.2810650887573964,True,severe,higher,False
+10,complex,Res4,HR-dummy,274,FNR,1.0,False,low,lower,False
+10,complex,Res4,HR-pro,109,FNR,1.6527777777777777,True,severe,higher,False
+10,complex,Res4,Senior Partner,196,FNR,2.1915285451197053,True,severe,higher,False
+10,complex,Res5,Coding Interviewer,372,FNR,1.0,False,low,lower,False
+10,complex,Res5,HR-pro,61,FNR,16.272727272727273,True,severe,higher,False
+10,complex,Res5,deepResearch Inc.,146,FNR,6.336283185840708,True,severe,higher,False
+10,complex,Res6,Coding Interviewer,579,FNR,1.0,False,low,lower,False
+10,complex,Res7,Coding Interviewer,579,FNR,1.0,False,low,lower,False
+10,complex,Res8,Coding Interviewer,271,FNR,1.0,False,low,lower,False
+10,complex,Res8,HR-dummy,26,FNR,0.0,True,severe,lower,True
+10,complex,Res8,HR-pro and Senior Partner,222,FNR,0.0,True,severe,lower,False
+10,complex,Res8,Senior Partner,60,FNR,0.0,True,severe,lower,False
+10,complex,Res9,Coding Interviewer,39,FNR,4.096969696969698,True,severe,higher,False
+10,complex,Res9,HR-dummy,82,FNR,2.331034482758621,True,severe,higher,False
+10,complex,Res9,HR-pro and Senior Partner,342,FNR,1.0,False,low,lower,False
+10,complex,Res9,Senior Partner,116,FNR,0.786046511627907,True,moderate,lower,False
+10,complex,Res10,HR-dummy,56,FNR,10.0,True,severe,higher,False
+10,complex,Res10,HR-pro,293,FNR,,False,,,False
+10,complex,Res10,HR-pro and Senior Partner,158,FNR,10.0,True,severe,higher,False
+10,complex,Res10,Senior Partner,72,FNR,10.0,True,severe,higher,False
+10,complex,gender_cat,F,250,FNR,3.255813953488372,True,severe,higher,False
+10,complex,gender_cat,T,329,FNR,1.0,False,low,lower,False
+10,complex,citizen_cat,F,229,FNR,1.536945812807882,True,severe,higher,False
+10,complex,citizen_cat,T,350,FNR,1.0,False,low,lower,False
+10,complex,age_group,18-29,6,FNR,0.0,True,severe,lower,True
+10,complex,age_group,30-44,164,FNR,1.4630872483221475,True,high,higher,False
+10,complex,age_group,45-64,365,FNR,1.0,False,low,lower,False
+10,complex,age_group,65+,44,FNR,0.0,True,severe,lower,False
+10,complex,german_speaking_cat,F,234,FNR,3.586206896551724,True,severe,higher,False
+10,complex,german_speaking_cat,T,345,FNR,1.0,False,low,lower,False
+10,complex,religious_cat,F,252,FNR,1.3623853211009176,True,high,higher,False
+10,complex,religious_cat,T,327,FNR,1.0,False,low,lower,False
+10,complex,Act1,A08,579,TPR,1.0,False,low,over,False
+10,complex,Act2,A12,579,TPR,1.0,False,low,over,False
+10,complex,Act3,A03,281,TPR,0.9837483977293536,False,low,under,False
+10,complex,Act3,A11,298,TPR,1.0,False,low,over,False
+10,complex,Act4,A03,298,TPR,1.0,False,low,over,False
+10,complex,Act4,A11,281,TPR,0.9837483977293536,False,low,under,False
+10,complex,Act5,A05,372,TPR,1.0,False,low,over,False
+10,complex,Act5,A06,207,TPR,0.954376297144493,False,low,under,False
+10,complex,Act6,A02,68,TPR,1.0536912751677852,False,low,over,False
+10,complex,Act6,A05,207,TPR,1.0,False,low,over,False
+10,complex,Act6,A07,182,TPR,1.0477043929225136,False,low,over,False
+10,complex,Act6,A09,122,TPR,1.0448367266369636,False,low,over,False
+10,complex,Act7,A02,114,TPR,0.997438975590236,False,low,under,False
+10,complex,Act7,A07,278,TPR,1.0,False,low,over,False
+10,complex,Act7,A09,187,TPR,0.992597038815526,False,low,under,False
+10,complex,Act8,A01,86,TPR,1.0,False,low,over,False
+10,complex,Act8,A02,65,TPR,0.9444444444444444,False,low,under,False
+10,complex,Act8,A04,222,TPR,1.0,False,low,over,False
+10,complex,Act8,A07,109,TPR,0.9438202247191012,False,low,under,False
+10,complex,Act8,A09,97,TPR,0.9726027397260274,False,low,under,False
+10,complex,Act9,A01,198,TPR,0.9938688688688688,False,low,under,False
+10,complex,Act9,A02,13,TPR,0.9227409227409228,False,low,under,True
+10,complex,Act9,A04,342,TPR,1.0,False,low,over,False
+10,complex,Act9,A07,10,TPR,1.015015015015015,False,low,over,True
+10,complex,Act9,A09,16,TPR,0.9425139425139424,False,low,under,True
+10,complex,Act10,A01,128,TPR,0.9,False,low,under,False
+10,complex,Act10,A04,158,TPR,0.9802631578947368,False,low,under,False
+10,complex,Act10,A10,293,TPR,1.0,False,low,over,False
+10,complex,Res1,Front Desk,286,TPR,0.9911124731841864,False,low,under,False
+10,complex,Res1,Online System,293,TPR,1.0,False,low,over,False
+10,complex,Res2,HR-dummy,412,TPR,1.0,False,low,over,False
+10,complex,Res2,HR-pro,167,TPR,0.9889126921486826,False,low,under,False
+10,complex,Res3,HR-dummy,285,TPR,1.0,False,low,over,False
+10,complex,Res3,HR-pro,105,TPR,0.9512227362855252,False,low,under,False
+10,complex,Res3,Senior Partner,189,TPR,0.9899524306764126,False,low,under,False
+10,complex,Res4,HR-dummy,274,TPR,1.0,False,low,over,False
+10,complex,Res4,HR-pro,109,TPR,0.9916666666666666,False,low,under,False
+10,complex,Res4,Senior Partner,196,TPR,0.984788997296344,False,low,under,False
+10,complex,Res5,Coding Interviewer,372,TPR,1.0,False,low,over,False
+10,complex,Res5,HR-pro,61,TPR,0.9141981613891726,False,low,under,False
+10,complex,Res5,deepResearch Inc.,146,TPR,0.970020880978423,False,low,under,False
+10,complex,Res6,Coding Interviewer,579,TPR,1.0,False,low,over,False
+10,complex,Res7,Coding Interviewer,579,TPR,1.0,False,low,over,False
+10,complex,Res8,Coding Interviewer,271,TPR,1.0,False,low,over,False
+10,complex,Res8,HR-dummy,26,TPR,1.0485436893203883,False,low,over,True
+10,complex,Res8,HR-pro and Senior Partner,222,TPR,1.0485436893203883,False,low,over,False
+10,complex,Res8,Senior Partner,60,TPR,1.0485436893203883,False,low,over,False
+10,complex,Res9,Coding Interviewer,39,TPR,0.9534989534989536,False,low,under,False
+10,complex,Res9,HR-dummy,82,TPR,0.9800144972558764,False,low,under,False
+10,complex,Res9,HR-pro and Senior Partner,342,TPR,1.0,False,low,over,False
+10,complex,Res9,Senior Partner,116,TPR,1.0032125148404218,False,low,over,False
+10,complex,Res10,HR-dummy,56,TPR,0.8064516129032258,False,moderate,under,False
+10,complex,Res10,HR-pro,293,TPR,1.0,False,low,over,False
+10,complex,Res10,HR-pro and Senior Partner,158,TPR,0.9802631578947368,False,low,under,False
+10,complex,Res10,Senior Partner,72,TPR,0.9743589743589745,False,low,under,False
+10,complex,gender_cat,F,250,TPR,0.9772140004698144,False,low,under,False
+10,complex,gender_cat,T,329,TPR,1.0,False,low,over,False
+10,complex,citizen_cat,F,229,TPR,0.9912549541887968,False,low,under,False
+10,complex,citizen_cat,T,350,TPR,1.0,False,low,over,False
+10,complex,age_group,18-29,6,TPR,1.0186915887850467,False,low,over,True
+10,complex,age_group,30-44,164,TPR,0.9913441635827636,False,low,under,False
+10,complex,age_group,45-64,365,TPR,1.0,False,low,over,False
+10,complex,age_group,65+,44,TPR,1.0186915887850467,False,low,over,False
+10,complex,german_speaking_cat,F,234,TPR,0.9748911951791096,False,low,under,False
+10,complex,german_speaking_cat,T,345,TPR,1.0,False,low,over,False
+10,complex,religious_cat,F,252,TPR,0.9937947718989568,False,low,under,False
+10,complex,religious_cat,T,327,TPR,1.0,False,low,over,False
+10,simple,Act1,A08,579,PPR,1.0,False,low,over,False
+10,simple,Act2,A12,579,PPR,1.0,False,low,over,False
+10,simple,Act3,A03,281,PPR,0.9566929133858268,False,low,under,False
+10,simple,Act3,A11,298,PPR,1.0,False,low,over,False
+10,simple,Act4,A03,298,PPR,1.0,False,low,over,False
+10,simple,Act4,A11,281,PPR,0.9566929133858268,False,low,under,False
+10,simple,Act5,A05,372,PPR,1.0,False,low,over,False
+10,simple,Act5,A06,207,PPR,0.42,True,severe,under,False
+10,simple,Act6,A02,68,PPR,0.4217687074829932,True,severe,under,False
+10,simple,Act6,A05,207,PPR,1.0,False,low,over,False
+10,simple,Act6,A07,182,PPR,1.1700680272108843,False,moderate,over,False
+10,simple,Act6,A09,122,PPR,0.7891156462585034,True,moderate,under,False
+10,simple,Act7,A02,114,PPR,0.4194915254237288,True,severe,under,False
+10,simple,Act7,A07,278,PPR,1.0,False,low,over,False
+10,simple,Act7,A09,187,PPR,0.6864406779661018,True,high,under,False
+10,simple,Act8,A01,86,PPR,0.3906976744186046,True,severe,under,False
+10,simple,Act8,A02,65,PPR,0.2186046511627906,True,severe,under,False
+10,simple,Act8,A04,222,PPR,1.0,False,low,over,False
+10,simple,Act8,A07,109,PPR,0.3767441860465116,True,severe,under,False
+10,simple,Act8,A09,97,PPR,0.3255813953488372,True,severe,under,False
+10,simple,Act9,A01,198,PPR,0.430722891566265,True,severe,under,False
+10,simple,Act9,A02,13,PPR,0.0210843373493975,True,severe,under,True
+10,simple,Act9,A04,342,PPR,1.0,False,low,over,False
+10,simple,Act9,A07,10,PPR,0.0240963855421686,True,severe,under,True
+10,simple,Act9,A09,16,PPR,0.0210843373493975,True,severe,under,True
+10,simple,Act10,A01,128,PPR,0.1740614334470989,True,severe,under,False
+10,simple,Act10,A04,158,PPR,0.5221843003412969,True,high,under,False
+10,simple,Act10,A10,293,PPR,1.0,False,low,over,False
+10,simple,gender_cat,F,250,PPR,0.6904761904761905,True,high,under,False
+10,simple,gender_cat,T,329,PPR,1.0,False,low,over,False
+10,simple,citizen_cat,F,229,PPR,0.6084142394822006,True,high,under,False
+10,simple,citizen_cat,T,350,PPR,1.0,False,low,over,False
+10,simple,age_group,18-29,6,PPR,0.019108280254777,True,severe,under,True
+10,simple,age_group,30-44,164,PPR,0.4585987261146497,True,severe,under,False
+10,simple,age_group,45-64,365,PPR,1.0,False,low,over,False
+10,simple,age_group,65+,44,PPR,0.1050955414012738,True,severe,under,False
+10,simple,german_speaking_cat,F,234,PPR,0.6402640264026402,True,high,under,False
+10,simple,german_speaking_cat,T,345,PPR,1.0,False,low,over,False
+10,simple,religious_cat,F,252,PPR,0.7197231833910035,True,high,under,False
+10,simple,religious_cat,T,327,PPR,1.0,False,low,over,False
+10,simple,Act1,A08,579,PPR,1.0,False,low,over,False
+10,simple,Act2,A12,579,PPR,1.0,False,low,over,False
+10,simple,Act3,A03,281,PPR,1.0145711323451116,False,low,over,False
+10,simple,Act3,A11,298,PPR,1.0,False,low,over,False
+10,simple,Act4,A03,298,PPR,1.0,False,low,over,False
+10,simple,Act4,A11,281,PPR,1.0145711323451116,False,low,over,False
+10,simple,Act5,A05,372,PPR,1.0,False,low,over,False
+10,simple,Act5,A06,207,PPR,0.7547826086956522,True,moderate,under,False
+10,simple,Act6,A02,68,PPR,1.2839135654261704,True,high,over,False
+10,simple,Act6,A05,207,PPR,1.0,False,low,over,False
+10,simple,Act6,A07,182,PPR,1.3307916573222691,True,high,over,False
+10,simple,Act6,A09,122,PPR,1.3389093342254934,True,high,over,False
+10,simple,Act7,A02,114,PPR,1.022970561998216,False,low,over,False
+10,simple,Act7,A07,278,PPR,1.0,False,low,over,False
+10,simple,Act7,A09,187,PPR,1.020484002537841,False,low,over,False
+10,simple,Act8,A01,86,PPR,1.0085451595457005,False,low,over,False
+10,simple,Act8,A02,65,PPR,0.7466189624329159,True,high,under,False
+10,simple,Act8,A04,222,PPR,1.0,False,low,over,False
+10,simple,Act8,A07,109,PPR,0.7673138468103264,True,moderate,under,False
+10,simple,Act8,A09,97,PPR,0.7451450491488851,True,high,under,False
+10,simple,Act9,A01,198,PPR,0.7439759036144579,True,high,under,False
+10,simple,Act9,A02,13,PPR,0.5546802594995366,True,high,under,True
+10,simple,Act9,A04,342,PPR,1.0,False,low,over,False
+10,simple,Act9,A07,10,PPR,0.8240963855421688,False,moderate,under,True
+10,simple,Act9,A09,16,PPR,0.4506777108433735,True,severe,under,True
+10,simple,Act10,A01,128,PPR,0.3984375,True,severe,under,False
+10,simple,Act10,A04,158,PPR,0.9683544303797468,False,low,under,False
+10,simple,Act10,A10,293,PPR,1.0,False,low,over,False
+10,simple,gender_cat,F,250,PPR,0.9086666666666668,False,low,under,False
+10,simple,gender_cat,T,329,PPR,1.0,False,low,over,False
+10,simple,citizen_cat,F,229,PPR,0.9298907590339311,False,low,under,False
+10,simple,citizen_cat,T,350,PPR,1.0,False,low,over,False
+10,simple,age_group,18-29,6,PPR,1.1624203821656052,False,moderate,over,True
+10,simple,age_group,30-44,164,PPR,1.0206617989746776,False,low,over,False
+10,simple,age_group,45-64,365,PPR,1.0,False,low,over,False
+10,simple,age_group,65+,44,PPR,0.8718152866242038,False,moderate,under,False
+10,simple,german_speaking_cat,F,234,PPR,0.943979013285944,False,low,under,False
+10,simple,german_speaking_cat,T,345,PPR,1.0,False,low,over,False
+10,simple,religious_cat,F,252,PPR,0.933926511781183,False,low,under,False
+10,simple,religious_cat,T,327,PPR,1.0,False,low,over,False
+10,simple,Act1,A08,579,PPV,1.0,False,low,over,False
+10,simple,Act2,A12,579,PPV,1.0,False,low,over,False
+10,simple,Act3,A03,281,PPV,1.011549183592194,False,low,over,False
+10,simple,Act3,A11,298,PPV,1.0,False,low,over,False
+10,simple,Act4,A03,298,PPV,1.0,False,low,over,False
+10,simple,Act4,A11,281,PPV,1.011549183592194,False,low,over,False
+10,simple,Act5,A05,372,PPV,1.0,False,low,over,False
+10,simple,Act5,A06,207,PPV,0.9482876245053896,False,low,under,False
+10,simple,Act6,A02,68,PPV,1.0575539568345322,False,low,over,False
+10,simple,Act6,A05,207,PPV,1.0,False,low,over,False
+10,simple,Act6,A07,182,PPV,1.0514053873180524,False,low,over,False
+10,simple,Act6,A09,122,PPV,1.0575539568345322,False,low,over,False
+10,simple,Act7,A02,114,PPV,1.0157224418093984,False,low,over,False
+10,simple,Act7,A07,278,PPV,1.0,False,low,over,False
+10,simple,Act7,A09,187,PPV,1.013419216317767,False,low,over,False
+10,simple,Act8,A01,86,PPV,1.0,False,low,over,False
+10,simple,Act8,A02,65,PPV,0.9361702127659576,False,low,under,False
+10,simple,Act8,A04,222,PPV,1.0,False,low,over,False
+10,simple,Act8,A07,109,PPV,0.9753086419753086,False,low,under,False
+10,simple,Act8,A09,97,PPV,0.9428571428571428,False,low,under,False
+10,simple,Act9,A01,198,PPV,0.963848272939182,False,low,under,False
+10,simple,Act9,A02,13,PPV,0.8623376623376623,False,moderate,under,True
+10,simple,Act9,A04,342,PPV,1.0,False,low,over,False
+10,simple,Act9,A07,10,PPV,1.006060606060606,False,low,over,True
+10,simple,Act9,A09,16,PPV,1.006060606060606,False,low,over,True
+10,simple,Act10,A01,128,PPV,0.9411764705882352,False,low,under,False
+10,simple,Act10,A04,158,PPV,0.9607843137254902,False,low,under,False
+10,simple,Act10,A10,293,PPV,1.0,False,low,over,False
+10,simple,gender_cat,F,250,PPV,1.0142977291841884,False,low,over,False
+10,simple,gender_cat,T,329,PPV,1.0,False,low,over,False
+10,simple,citizen_cat,F,229,PPV,0.9948208286674132,False,low,under,False
+10,simple,citizen_cat,T,350,PPV,1.0,False,low,over,False
+10,simple,age_group,18-29,6,PPV,1.022801302931596,False,low,over,True
+10,simple,age_group,30-44,164,PPV,1.022801302931596,False,low,over,False
+10,simple,age_group,45-64,365,PPV,1.0,False,low,over,False
+10,simple,age_group,65+,44,PPV,0.960813345178166,False,low,under,False
+10,simple,german_speaking_cat,F,234,PPV,0.9872599386270386,False,low,under,False
+10,simple,german_speaking_cat,T,345,PPV,1.0,False,low,over,False
+10,simple,religious_cat,F,252,PPV,0.9980362946912242,False,low,under,False
+10,simple,religious_cat,T,327,PPV,1.0,False,low,over,False
+10,simple,Act1,A08,579,FDR,1.0,False,low,lower,False
+10,simple,Act2,A12,579,FDR,1.0,False,low,lower,False
+10,simple,Act3,A03,281,FDR,0.522633744855967,True,high,lower,False
+10,simple,Act3,A11,298,FDR,1.0,False,low,lower,False
+10,simple,Act4,A03,298,FDR,1.0,False,low,lower,False
+10,simple,Act4,A11,281,FDR,0.522633744855967,True,high,lower,False
+10,simple,Act5,A05,372,FDR,1.0,False,low,lower,False
+10,simple,Act5,A06,207,FDR,19.047619047619047,True,severe,higher,False
+10,simple,Act6,A02,68,FDR,0.0,True,severe,lower,False
+10,simple,Act6,A05,207,FDR,1.0,False,low,lower,False
+10,simple,Act6,A07,182,FDR,0.1068313953488372,True,severe,lower,False
+10,simple,Act6,A09,122,FDR,0.0,True,severe,lower,False
+10,simple,Act7,A02,114,FDR,0.3973063973063973,True,severe,lower,False
+10,simple,Act7,A07,278,FDR,1.0,False,low,lower,False
+10,simple,Act7,A09,187,FDR,0.48559670781893,True,severe,lower,False
+10,simple,Act8,A01,86,FDR,,False,,,False
+10,simple,Act8,A02,65,FDR,10.0,True,severe,higher,False
+10,simple,Act8,A04,222,FDR,,False,,,False
+10,simple,Act8,A07,109,FDR,10.0,True,severe,higher,False
+10,simple,Act8,A09,97,FDR,10.0,True,severe,higher,False
+10,simple,Act9,A01,198,FDR,6.965034965034965,True,severe,higher,False
+10,simple,Act9,A02,13,FDR,23.71428571428571,True,severe,higher,True
+10,simple,Act9,A04,342,FDR,1.0,False,low,lower,False
+10,simple,Act9,A07,10,FDR,0.0,True,severe,lower,True
+10,simple,Act9,A09,16,FDR,0.0,True,severe,lower,True
+10,simple,Act10,A01,128,FDR,10.0,True,severe,higher,False
+10,simple,Act10,A04,158,FDR,10.0,True,severe,higher,False
+10,simple,Act10,A10,293,FDR,,False,,,False
+10,simple,gender_cat,F,250,FDR,0.4137931034482759,True,severe,lower,False
+10,simple,gender_cat,T,329,FDR,1.0,False,low,lower,False
+10,simple,citizen_cat,F,229,FDR,1.3148936170212766,True,high,higher,False
+10,simple,citizen_cat,T,350,FDR,1.0,False,low,lower,False
+10,simple,age_group,18-29,6,FDR,0.0,True,severe,lower,True
+10,simple,age_group,30-44,164,FDR,0.0,True,severe,lower,False
+10,simple,age_group,45-64,365,FDR,1.0,False,low,lower,False
+10,simple,age_group,65+,44,FDR,2.718614718614719,True,severe,higher,False
+10,simple,german_speaking_cat,F,234,FDR,1.952319587628866,True,severe,higher,False
+10,simple,german_speaking_cat,T,345,FDR,1.0,False,low,lower,False
+10,simple,religious_cat,F,252,FDR,1.1115384615384616,False,moderate,higher,False
+10,simple,religious_cat,T,327,FDR,1.0,False,low,lower,False
+10,simple,Act1,A08,579,FOR,1.0,False,low,lower,False
+10,simple,Act2,A12,579,FOR,1.0,False,low,lower,False
+10,simple,Act3,A03,281,FOR,1.2469635627530362,False,moderate,higher,False
+10,simple,Act3,A11,298,FOR,1.0,False,low,lower,False
+10,simple,Act4,A03,298,FOR,1.0,False,low,lower,False
+10,simple,Act4,A11,281,FOR,1.2469635627530362,False,moderate,higher,False
+10,simple,Act5,A05,372,FOR,1.0,False,low,lower,False
+10,simple,Act5,A06,207,FOR,0.7333333333333333,True,high,lower,False
+10,simple,Act6,A02,68,FOR,0.5555555555555556,True,high,lower,False
+10,simple,Act6,A05,207,FOR,1.0,False,low,lower,False
+10,simple,Act6,A07,182,FOR,1.6666666666666667,True,severe,higher,False
+10,simple,Act6,A09,122,FOR,1.6666666666666667,True,severe,higher,False
+10,simple,Act7,A02,114,FOR,1.6333333333333335,True,severe,higher,False
+10,simple,Act7,A07,278,FOR,1.0,False,low,lower,False
+10,simple,Act7,A09,187,FOR,1.12,False,moderate,higher,False
+10,simple,Act8,A01,86,FOR,,False,,,False
+10,simple,Act8,A02,65,FOR,10.0,True,severe,higher,False
+10,simple,Act8,A04,222,FOR,,False,,,False
+10,simple,Act8,A07,109,FOR,10.0,True,severe,higher,False
+10,simple,Act8,A09,97,FOR,10.0,True,severe,higher,False
+10,simple,Act9,A01,198,FOR,0.159090909090909,True,severe,lower,False
+10,simple,Act9,A02,13,FOR,1.0416666666666667,False,low,higher,True
+10,simple,Act9,A04,342,FOR,1.0,False,low,lower,False
+10,simple,Act9,A07,10,FOR,0.0,True,severe,lower,True
+10,simple,Act9,A09,16,FOR,0.9722222222222222,False,low,lower,True
+10,simple,Act10,A01,128,FOR,,False,,,False
+10,simple,Act10,A04,158,FOR,,False,,,False
+10,simple,Act10,A10,293,FOR,,False,,,False
+10,simple,gender_cat,F,250,FOR,0.8019639934533551,False,moderate,lower,False
+10,simple,gender_cat,T,329,FOR,1.0,False,low,lower,False
+10,simple,citizen_cat,F,229,FOR,2.375,True,severe,higher,False
+10,simple,citizen_cat,T,350,FOR,1.0,False,low,lower,False
+10,simple,age_group,18-29,6,FOR,,False,,,True
+10,simple,age_group,30-44,164,FOR,0.6375,True,high,lower,False
+10,simple,age_group,45-64,365,FOR,1.0,False,low,lower,False
+10,simple,age_group,65+,44,FOR,0.4636363636363637,True,severe,lower,False
+10,simple,german_speaking_cat,F,234,FOR,1.1307692307692307,False,moderate,higher,False
+10,simple,german_speaking_cat,T,345,FOR,1.0,False,low,lower,False
+10,simple,religious_cat,F,252,FOR,0.93006993006993,False,low,lower,False
+10,simple,religious_cat,T,327,FOR,1.0,False,low,lower,False
+10,simple,Act1,A08,579,FPR,1.0,False,low,lower,False
+10,simple,Act2,A12,579,FPR,1.0,False,low,lower,False
+10,simple,Act3,A03,281,FPR,0.6851851851851851,True,high,lower,False
+10,simple,Act3,A11,298,FPR,1.0,False,low,lower,False
+10,simple,Act4,A03,298,FPR,1.0,False,low,lower,False
+10,simple,Act4,A11,281,FPR,0.6851851851851851,True,high,lower,False
+10,simple,Act5,A05,372,FPR,1.0,False,low,lower,False
+10,simple,Act5,A06,207,FPR,2.24,True,severe,higher,False
+10,simple,Act6,A02,68,FPR,0.0,True,severe,lower,False
+10,simple,Act6,A05,207,FPR,1.0,False,low,lower,False
+10,simple,Act6,A07,182,FPR,1.0416666666666663,False,low,higher,False
+10,simple,Act6,A09,122,FPR,0.0,True,severe,lower,False
+10,simple,Act7,A02,114,FPR,0.6666666666666666,True,high,lower,False
+10,simple,Act7,A07,278,FPR,1.0,False,low,lower,False
+10,simple,Act7,A09,187,FPR,0.631578947368421,True,high,lower,False
+10,simple,Act8,A01,86,FPR,,False,,,False
+10,simple,Act8,A02,65,FPR,10.0,True,severe,higher,False
+10,simple,Act8,A04,222,FPR,,False,,,False
+10,simple,Act8,A07,109,FPR,10.0,True,severe,higher,False
+10,simple,Act8,A09,97,FPR,10.0,True,severe,higher,False
+10,simple,Act9,A01,198,FPR,0.2222222222222222,True,severe,lower,False
+10,simple,Act9,A02,13,FPR,1.0,False,low,lower,True
+10,simple,Act9,A04,342,FPR,1.0,False,low,lower,False
+10,simple,Act9,A07,10,FPR,0.0,True,severe,lower,True
+10,simple,Act9,A09,16,FPR,0.0,True,severe,lower,True
+10,simple,Act10,A01,128,FPR,,False,,,False
+10,simple,Act10,A04,158,FPR,,False,,,False
+10,simple,Act10,A10,293,FPR,,False,,,False
+10,simple,gender_cat,F,250,FPR,0.236734693877551,True,severe,lower,False
+10,simple,gender_cat,T,329,FPR,1.0,False,low,lower,False
+10,simple,citizen_cat,F,229,FPR,1.1692307692307693,False,moderate,higher,False
+10,simple,citizen_cat,T,350,FPR,1.0,False,low,lower,False
+10,simple,age_group,18-29,6,FPR,,False,,,True
+10,simple,age_group,30-44,164,FPR,0.0,True,severe,lower,False
+10,simple,age_group,45-64,365,FPR,1.0,False,low,lower,False
+10,simple,age_group,65+,44,FPR,0.9870129870129872,False,low,lower,False
+10,simple,german_speaking_cat,F,234,FPR,1.3306451612903225,True,high,higher,False
+10,simple,german_speaking_cat,T,345,FPR,1.0,False,low,lower,False
+10,simple,religious_cat,F,252,FPR,0.7058823529411765,True,high,lower,False
+10,simple,religious_cat,T,327,FPR,1.0,False,low,lower,False
+10,simple,Act1,A08,579,FNR,1.0,False,low,lower,False
+10,simple,Act2,A12,579,FNR,1.0,False,low,lower,False
+10,simple,Act3,A03,281,FNR,1.1066020593579649,False,moderate,higher,False
+10,simple,Act3,A11,298,FNR,1.0,False,low,lower,False
+10,simple,Act4,A03,298,FNR,1.0,False,low,lower,False
+10,simple,Act4,A11,281,FNR,1.1066020593579649,False,moderate,higher,False
+10,simple,Act5,A05,372,FNR,1.0,False,low,lower,False
+10,simple,Act5,A06,207,FNR,4.560509554140127,True,severe,higher,False
+10,simple,Act6,A02,68,FNR,0.1384479717813051,True,severe,lower,False
+10,simple,Act6,A05,207,FNR,1.0,False,low,lower,False
+10,simple,Act6,A07,182,FNR,0.247790404040404,True,severe,lower,False
+10,simple,Act6,A09,122,FNR,0.2198879551820728,True,severe,lower,False
+10,simple,Act7,A02,114,FNR,1.3444444444444443,True,high,higher,False
+10,simple,Act7,A07,278,FNR,1.0,False,low,lower,False
+10,simple,Act7,A09,187,FNR,0.9603174603174602,False,low,lower,False
+10,simple,Act8,A01,86,FNR,,False,,,False
+10,simple,Act8,A02,65,FNR,10.0,True,severe,higher,False
+10,simple,Act8,A04,222,FNR,,False,,,False
+10,simple,Act8,A07,109,FNR,10.0,True,severe,higher,False
+10,simple,Act8,A09,97,FNR,10.0,True,severe,higher,False
+10,simple,Act9,A01,198,FNR,2.0538194444444446,True,severe,higher,False
+10,simple,Act9,A02,13,FNR,19.204545454545453,True,severe,higher,True
+10,simple,Act9,A04,342,FNR,1.0,False,low,lower,False
+10,simple,Act9,A07,10,FNR,0.0,True,severe,lower,True
+10,simple,Act9,A09,16,FNR,21.125,True,severe,higher,True
+10,simple,Act10,A01,128,FNR,10.0,True,severe,higher,False
+10,simple,Act10,A04,158,FNR,10.0,True,severe,higher,False
+10,simple,Act10,A10,293,FNR,,False,,,False
+10,simple,gender_cat,F,250,FNR,1.5026833631484793,True,severe,higher,False
+10,simple,gender_cat,T,329,FNR,1.0,False,low,lower,False
+10,simple,citizen_cat,F,229,FNR,3.6502463054187193,True,severe,higher,False
+10,simple,citizen_cat,T,350,FNR,1.0,False,low,lower,False
+10,simple,age_group,18-29,6,FNR,0.0,True,severe,lower,True
+10,simple,age_group,30-44,164,FNR,0.5486577181208054,True,high,lower,False
+10,simple,age_group,45-64,365,FNR,1.0,False,low,lower,False
+10,simple,age_group,65+,44,FNR,0.990909090909091,False,low,lower,False
+10,simple,german_speaking_cat,F,234,FNR,1.6551724137931034,True,severe,higher,False
+10,simple,german_speaking_cat,T,345,FNR,1.0,False,low,lower,False
+10,simple,religious_cat,F,252,FNR,1.467184191954834,True,high,higher,False
+10,simple,religious_cat,T,327,FNR,1.0,False,low,lower,False
+10,simple,Act1,A08,579,TPR,1.0,False,low,over,False
+10,simple,Act2,A12,579,TPR,1.0,False,low,over,False
+10,simple,Act3,A03,281,TPR,0.9944119888239776,False,low,under,False
+10,simple,Act3,A11,298,TPR,1.0,False,low,over,False
+10,simple,Act4,A03,298,TPR,1.0,False,low,over,False
+10,simple,Act4,A11,281,TPR,0.9944119888239776,False,low,under,False
+10,simple,Act5,A05,372,TPR,1.0,False,low,over,False
+10,simple,Act5,A06,207,TPR,0.9081817020422316,False,low,under,False
+10,simple,Act6,A02,68,TPR,1.1115678885463056,False,moderate,over,False
+10,simple,Act6,A05,207,TPR,1.0,False,low,over,False
+10,simple,Act6,A07,182,TPR,1.0974084368868542,False,low,over,False
+10,simple,Act6,A09,122,TPR,1.101021703645487,False,moderate,over,False
+10,simple,Act7,A02,114,TPR,0.9820289855072464,False,low,under,False
+10,simple,Act7,A07,278,TPR,1.0,False,low,over,False
+10,simple,Act7,A09,187,TPR,1.002070393374741,False,low,over,False
+10,simple,Act8,A01,86,TPR,1.0,False,low,over,False
+10,simple,Act8,A02,65,TPR,0.8148148148148148,False,moderate,under,False
+10,simple,Act8,A04,222,TPR,1.0,False,low,over,False
+10,simple,Act8,A07,109,TPR,0.8876404494382022,False,moderate,under,False
+10,simple,Act8,A09,97,TPR,0.9041095890410958,False,low,under,False
+10,simple,Act9,A01,198,TPR,0.974452861952862,False,low,under,False
+10,simple,Act9,A02,13,TPR,0.5586776859504132,True,high,under,True
+10,simple,Act9,A04,342,TPR,1.0,False,low,over,False
+10,simple,Act9,A07,10,TPR,1.0242424242424242,False,low,over,True
+10,simple,Act9,A09,16,TPR,0.5121212121212121,True,high,under,True
+10,simple,Act10,A01,128,TPR,0.6857142857142857,True,high,under,False
+10,simple,Act10,A04,158,TPR,0.9671052631578948,False,low,under,False
+10,simple,Act10,A10,293,TPR,1.0,False,low,over,False
+10,simple,gender_cat,F,250,TPR,0.9772303703103477,False,low,under,False
+10,simple,gender_cat,T,329,TPR,1.0,False,low,over,False
+10,simple,citizen_cat,F,229,TPR,0.9302566761731916,False,low,under,False
+10,simple,citizen_cat,T,350,TPR,1.0,False,low,over,False
+10,simple,age_group,18-29,6,TPR,1.0651465798045603,False,low,over,True
+10,simple,age_group,30-44,164,TPR,1.0294034059856154,False,low,over,False
+10,simple,age_group,45-64,365,TPR,1.0,False,low,over,False
+10,simple,age_group,65+,44,TPR,1.000592241634587,False,low,over,False
+10,simple,german_speaking_cat,F,234,TPR,0.9715142428785608,False,low,under,False
+10,simple,german_speaking_cat,T,345,TPR,1.0,False,low,over,False
+10,simple,religious_cat,F,252,TPR,0.9786148081147436,False,low,under,False
+10,simple,religious_cat,T,327,TPR,1.0,False,low,over,False
+3,complex,Act1,A08,1842,PPR,1.0,False,low,over,False
+3,complex,Act2,A12,1842,PPR,1.0,False,low,over,False
+3,complex,Act3,A01,152,PPR,0.0,True,severe,under,False
+3,complex,Act3,A03,828,PPR,1.256140350877193,True,high,over,False
+3,complex,Act3,A11,862,PPR,1.0,False,low,over,False
+3,complex,Res1,Front Desk,929,PPR,1.0,False,low,over,False
+3,complex,Res1,Online System,913,PPR,1.5823293172690762,True,severe,over,False
+3,complex,Res2,HR-dummy,1340,PPR,1.0,False,low,over,False
+3,complex,Res2,HR-pro,502,PPR,0.1690909090909091,True,severe,under,False
+3,complex,Res3,HR-dummy,953,PPR,1.0,False,low,over,False
+3,complex,Res3,HR-pro,299,PPR,0.4526315789473684,True,severe,under,False
+3,complex,Res3,Senior Partner,590,PPR,0.8035087719298245,False,moderate,under,False
+3,complex,gender_cat,F,796,PPR,0.7472826086956521,True,high,under,False
+3,complex,gender_cat,T,1046,PPR,1.0,False,low,over,False
+3,complex,citizen_cat,F,823,PPR,0.7762430939226519,True,moderate,under,False
+3,complex,citizen_cat,T,1019,PPR,1.0,False,low,over,False
+3,complex,age_group,18-29,26,PPR,0.0245398773006134,True,severe,under,True
+3,complex,age_group,30-44,458,PPR,0.4098159509202454,True,severe,under,False
+3,complex,age_group,45-64,1181,PPR,1.0,False,low,over,False
+3,complex,age_group,65+,177,PPR,0.1435582822085889,True,severe,under,False
+3,complex,german_speaking_cat,F,816,PPR,0.7568306010928961,True,moderate,under,False
+3,complex,german_speaking_cat,T,1026,PPR,1.0,False,low,over,False
+3,complex,religious_cat,F,787,PPR,0.69433465085639,True,high,under,False
+3,complex,religious_cat,T,1055,PPR,1.0,False,low,over,False
+3,complex,Act1,A08,1842,PPR,1.0,False,low,over,False
+3,complex,Act2,A12,1842,PPR,1.0,False,low,over,False
+3,complex,Act3,A01,152,PPR,0.0,True,severe,under,False
+3,complex,Act3,A03,828,PPR,1.3077209933045173,True,high,over,False
+3,complex,Act3,A11,862,PPR,1.0,False,low,over,False
+3,complex,Res1,Front Desk,929,PPR,1.0,False,low,over,False
+3,complex,Res1,Online System,913,PPR,1.6100590752935071,True,severe,over,False
+3,complex,Res2,HR-dummy,1340,PPR,1.0,False,low,over,False
+3,complex,Res2,HR-pro,502,PPR,0.4513582035494386,True,severe,under,False
+3,complex,Res3,HR-dummy,953,PPR,1.0,False,low,over,False
+3,complex,Res3,HR-pro,299,PPR,1.442668544270375,True,high,over,False
+3,complex,Res3,Senior Partner,590,PPR,1.2978709485578352,True,high,over,False
+3,complex,gender_cat,F,796,PPR,0.981981920471925,False,low,under,False
+3,complex,gender_cat,T,1046,PPR,1.0,False,low,over,False
+3,complex,citizen_cat,F,823,PPR,0.9611077918677792,False,low,under,False
+3,complex,citizen_cat,T,1019,PPR,1.0,False,low,over,False
+3,complex,age_group,18-29,26,PPR,1.114676734308636,False,moderate,over,True
+3,complex,age_group,30-44,458,PPR,1.056752484796528,False,low,over,False
+3,complex,age_group,45-64,1181,PPR,1.0,False,low,over,False
+3,complex,age_group,65+,177,PPR,0.9578662784652178,False,low,under,False
+3,complex,german_speaking_cat,F,816,PPR,0.9516031822565092,False,low,under,False
+3,complex,german_speaking_cat,T,1026,PPR,1.0,False,low,over,False
+3,complex,religious_cat,F,787,PPR,0.9307789792293412,False,low,under,False
+3,complex,religious_cat,T,1055,PPR,1.0,False,low,over,False
+3,complex,Act1,A08,1842,PPV,1.0,False,low,over,False
+3,complex,Act2,A12,1842,PPV,1.0,False,low,over,False
+3,complex,Act3,A01,152,PPV,,False,,,False
+3,complex,Act3,A03,828,PPV,0.868149200539395,False,moderate,under,False
+3,complex,Act3,A11,862,PPV,1.0,False,low,over,False
+3,complex,Res1,Front Desk,929,PPV,1.0,False,low,over,False
+3,complex,Res1,Online System,913,PPV,0.9318476121413032,False,low,under,False
+3,complex,Res2,HR-dummy,1340,PPV,1.0,False,low,over,False
+3,complex,Res2,HR-pro,502,PPV,1.0142330268557478,False,low,over,False
+3,complex,Res3,HR-dummy,953,PPV,1.0,False,low,over,False
+3,complex,Res3,HR-pro,299,PPV,0.9930702372562836,False,low,under,False
+3,complex,Res3,Senior Partner,590,PPV,1.244541484716157,False,moderate,over,False
+3,complex,gender_cat,F,796,PPV,0.9880482241772566,False,low,under,False
+3,complex,gender_cat,T,1046,PPV,1.0,False,low,over,False
+3,complex,citizen_cat,F,823,PPV,0.8662412565959013,False,moderate,under,False
+3,complex,citizen_cat,T,1019,PPV,1.0,False,low,over,False
+3,complex,age_group,18-29,26,PPV,0.9113418530351436,False,low,under,True
+3,complex,age_group,30-44,458,PPV,1.0524478200149223,False,low,over,False
+3,complex,age_group,45-64,1181,PPV,1.0,False,low,over,False
+3,complex,age_group,65+,177,PPV,0.6676497091832554,True,high,under,False
+3,complex,german_speaking_cat,F,816,PPV,0.9351451670310672,False,low,under,False
+3,complex,german_speaking_cat,T,1026,PPV,1.0,False,low,over,False
+3,complex,religious_cat,F,787,PPV,0.9196048515308476,False,low,under,False
+3,complex,religious_cat,T,1055,PPV,1.0,False,low,over,False
+3,complex,Act1,A08,1842,FDR,1.0,False,low,lower,False
+3,complex,Act2,A12,1842,FDR,1.0,False,low,lower,False
+3,complex,Act3,A01,152,FDR,,False,,,False
+3,complex,Act3,A03,828,FDR,1.0905011404581666,False,low,higher,False
+3,complex,Act3,A11,862,FDR,1.0,False,low,lower,False
+3,complex,Res1,Front Desk,929,FDR,1.0,False,low,lower,False
+3,complex,Res1,Online System,913,FDR,1.0442313510606112,False,low,higher,False
+3,complex,Res2,HR-dummy,1340,FDR,1.0,False,low,lower,False
+3,complex,Res2,HR-pro,502,FDR,0.9914103890404088,False,low,lower,False
+3,complex,Res3,HR-dummy,953,FDR,1.0,False,low,lower,False
+3,complex,Res3,HR-pro,299,FDR,1.0036884221055264,False,low,higher,False
+3,complex,Res3,Senior Partner,590,FDR,0.8698408226510775,False,moderate,lower,False
+3,complex,gender_cat,F,796,FDR,1.0072965983688085,False,low,higher,False
+3,complex,gender_cat,T,1046,FDR,1.0,False,low,lower,False
+3,complex,citizen_cat,F,823,FDR,1.0893779621824622,False,low,higher,False
+3,complex,citizen_cat,T,1019,FDR,1.0,False,low,lower,False
+3,complex,age_group,18-29,26,FDR,1.0552788844621517,False,low,higher,True
+3,complex,age_group,30-44,458,FDR,0.9672984707875086,False,low,lower,False
+3,complex,age_group,45-64,1181,FDR,1.0,False,low,lower,False
+3,complex,age_group,65+,177,FDR,1.2072223924813568,False,moderate,higher,False
+3,complex,german_speaking_cat,F,816,FDR,1.041113331614234,False,low,higher,False
+3,complex,german_speaking_cat,T,1026,FDR,1.0,False,low,lower,False
+3,complex,religious_cat,F,787,FDR,1.05139733033881,False,low,higher,False
+3,complex,religious_cat,T,1055,FDR,1.0,False,low,lower,False
+3,complex,Act1,A08,1842,FOR,1.0,False,low,lower,False
+3,complex,Act2,A12,1842,FOR,1.0,False,low,lower,False
+3,complex,Act3,A01,152,FOR,0.0,True,severe,lower,False
+3,complex,Act3,A03,828,FOR,1.212624584717608,False,moderate,higher,False
+3,complex,Act3,A11,862,FOR,1.0,False,low,lower,False
+3,complex,Res1,Front Desk,929,FOR,1.0,False,low,lower,False
+3,complex,Res1,Online System,913,FOR,0.2652307692307692,True,severe,lower,False
+3,complex,Res2,HR-dummy,1340,FOR,1.0,False,low,lower,False
+3,complex,Res2,HR-pro,502,FOR,1.5189873417721518,True,severe,higher,False
+3,complex,Res3,HR-dummy,953,FOR,1.0,False,low,lower,False
+3,complex,Res3,HR-pro,299,FOR,1.932716568544996,True,severe,higher,False
+3,complex,Res3,Senior Partner,590,FOR,0.7003657262277951,True,high,lower,False
+3,complex,gender_cat,F,796,FOR,0.7000903342366757,True,high,lower,False
+3,complex,gender_cat,T,1046,FOR,1.0,False,low,lower,False
+3,complex,citizen_cat,F,823,FOR,0.6955496610669024,True,high,lower,False
+3,complex,citizen_cat,T,1019,FOR,1.0,False,low,lower,False
+3,complex,age_group,18-29,26,FOR,1.469879518072289,True,high,higher,True
+3,complex,age_group,30-44,458,FOR,1.1024096385542168,False,moderate,higher,False
+3,complex,age_group,45-64,1181,FOR,1.0,False,low,lower,False
+3,complex,age_group,65+,177,FOR,0.7349397590361445,True,high,lower,False
+3,complex,german_speaking_cat,F,816,FOR,1.087070610687023,False,low,higher,False
+3,complex,german_speaking_cat,T,1026,FOR,1.0,False,low,lower,False
+3,complex,religious_cat,F,787,FOR,0.826554267650158,False,moderate,lower,False
+3,complex,religious_cat,T,1055,FOR,1.0,False,low,lower,False
+3,complex,Act1,A08,1842,FPR,1.0,False,low,lower,False
+3,complex,Act2,A12,1842,FPR,1.0,False,low,lower,False
+3,complex,Act3,A01,152,FPR,0.0,True,severe,lower,False
+3,complex,Act3,A03,828,FPR,1.3928662279489024,True,high,higher,False
+3,complex,Act3,A11,862,FPR,1.0,False,low,lower,False
+3,complex,Res1,Front Desk,929,FPR,1.0,False,low,lower,False
+3,complex,Res1,Online System,913,FPR,1.6550045765358314,True,severe,higher,False
+3,complex,Res2,HR-dummy,1340,FPR,1.0,False,low,lower,False
+3,complex,Res2,HR-pro,502,FPR,0.4270674922912763,True,severe,lower,False
+3,complex,Res3,HR-dummy,953,FPR,1.0,False,low,lower,False
+3,complex,Res3,HR-pro,299,FPR,1.580589157706093,True,severe,higher,False
+3,complex,Res3,Senior Partner,590,FPR,1.258441294959859,True,high,higher,False
+3,complex,gender_cat,F,796,FPR,0.947479573605284,False,low,lower,False
+3,complex,gender_cat,T,1046,FPR,1.0,False,low,lower,False
+3,complex,citizen_cat,F,823,FPR,0.9491379310344829,False,low,lower,False
+3,complex,citizen_cat,T,1019,FPR,1.0,False,low,lower,False
+3,complex,age_group,18-29,26,FPR,1.195805015233185,False,moderate,higher,True
+3,complex,age_group,30-44,458,FPR,1.0657029416580257,False,low,higher,False
+3,complex,age_group,45-64,1181,FPR,1.0,False,low,lower,False
+3,complex,age_group,65+,177,FPR,0.9930351586355308,False,low,lower,False
+3,complex,german_speaking_cat,F,816,FPR,0.9660536683027644,False,low,lower,False
+3,complex,german_speaking_cat,T,1026,FPR,1.0,False,low,lower,False
+3,complex,religious_cat,F,787,FPR,0.9188895714030952,False,low,lower,False
+3,complex,religious_cat,T,1055,FPR,1.0,False,low,lower,False
+3,complex,Act1,A08,1842,FNR,1.0,False,low,lower,False
+3,complex,Act2,A12,1842,FNR,1.0,False,low,lower,False
+3,complex,Act3,A01,152,FNR,,False,,,False
+3,complex,Act3,A03,828,FNR,0.5048019684101913,True,high,lower,False
+3,complex,Act3,A11,862,FNR,1.0,False,low,lower,False
+3,complex,Res1,Front Desk,929,FNR,1.0,False,low,lower,False
+3,complex,Res1,Online System,913,FNR,0.0807950438822922,True,severe,lower,False
+3,complex,Res2,HR-dummy,1340,FNR,1.0,False,low,lower,False
+3,complex,Res2,HR-pro,502,FNR,5.883870967741936,True,severe,higher,False
+3,complex,Res3,HR-dummy,953,FNR,1.0,False,low,lower,False
+3,complex,Res3,HR-pro,299,FNR,0.5510796003867224,True,high,lower,False
+3,complex,Res3,Senior Partner,590,FNR,0.3141237600377893,True,severe,lower,False
+3,complex,gender_cat,F,796,FNR,0.796812749003984,True,moderate,lower,False
+3,complex,gender_cat,T,1046,FNR,1.0,False,low,lower,False
+3,complex,citizen_cat,F,823,FNR,0.931940487496043,False,low,lower,False
+3,complex,citizen_cat,T,1019,FNR,1.0,False,low,lower,False
+3,complex,age_group,18-29,26,FNR,1.0602409638554218,False,low,higher,True
+3,complex,age_group,30-44,458,FNR,0.8909856292640441,False,moderate,lower,False
+3,complex,age_group,45-64,1181,FNR,1.0,False,low,lower,False
+3,complex,age_group,65+,177,FNR,1.1927710843373494,False,moderate,higher,False
+3,complex,german_speaking_cat,F,816,FNR,1.2818441064638784,True,high,higher,False
+3,complex,german_speaking_cat,T,1026,FNR,1.0,False,low,lower,False
+3,complex,religious_cat,F,787,FNR,1.1070417751613268,False,moderate,higher,False
+3,complex,religious_cat,T,1055,FNR,1.0,False,low,lower,False
+3,complex,Act1,A08,1842,TPR,1.0,False,low,over,False
+3,complex,Act2,A12,1842,TPR,1.0,False,low,over,False
+3,complex,Act3,A01,152,TPR,,False,,,False
+3,complex,Act3,A03,828,TPR,1.1835647875720845,False,moderate,over,False
+3,complex,Act3,A11,862,TPR,1.0,False,low,over,False
+3,complex,Res1,Front Desk,929,TPR,1.0,False,low,over,False
+3,complex,Res1,Online System,913,TPR,1.5487090809478152,True,severe,over,False
+3,complex,Res2,HR-dummy,1340,TPR,1.0,False,low,over,False
+3,complex,Res2,HR-pro,502,TPR,0.5045348293595138,True,high,under,False
+3,complex,Res3,HR-dummy,953,TPR,1.0,False,low,over,False
+3,complex,Res3,HR-pro,299,TPR,1.197252902860379,False,moderate,over,False
+3,complex,Res3,Senior Partner,590,TPR,1.3013698630136985,True,high,over,False
+3,complex,gender_cat,F,796,TPR,1.0589898470633594,False,low,over,False
+3,complex,gender_cat,T,1046,TPR,1.0,False,low,over,False
+3,complex,citizen_cat,F,823,TPR,1.0183056619838229,False,low,over,False
+3,complex,citizen_cat,T,1019,TPR,1.0,False,low,over,False
+3,complex,age_group,18-29,26,TPR,0.9840255591054312,False,low,under,True
+3,complex,age_group,30-44,458,TPR,1.02890796412487,False,low,over,False
+3,complex,age_group,45-64,1181,TPR,1.0,False,low,over,False
+3,complex,age_group,65+,177,TPR,0.9488817891373802,False,low,under,False
+3,complex,german_speaking_cat,F,816,TPR,0.9364858351630696,False,low,under,False
+3,complex,german_speaking_cat,T,1026,TPR,1.0,False,low,over,False
+3,complex,religious_cat,F,787,TPR,0.9736011838284564,False,low,under,False
+3,complex,religious_cat,T,1055,TPR,1.0,False,low,over,False
+3,simple,Act1,A08,1842,PPR,1.0,False,low,over,False
+3,simple,Act2,A12,1842,PPR,1.0,False,low,over,False
+3,simple,Act3,A01,152,PPR,0.0,True,severe,under,False
+3,simple,Act3,A03,828,PPR,0.9605568445475636,False,low,under,False
+3,simple,Act3,A11,862,PPR,1.0,False,low,over,False
+3,simple,gender_cat,F,796,PPR,0.7386831275720165,True,high,under,False
+3,simple,gender_cat,T,1046,PPR,1.0,False,low,over,False
+3,simple,citizen_cat,F,823,PPR,0.7808219178082192,True,moderate,under,False
+3,simple,citizen_cat,T,1019,PPR,1.0,False,low,over,False
+3,simple,age_group,18-29,26,PPR,0.0232126276694521,True,severe,under,True
+3,simple,age_group,30-44,458,PPR,0.3983286908077994,True,severe,under,False
+3,simple,age_group,45-64,1181,PPR,1.0,False,low,over,False
+3,simple,age_group,65+,177,PPR,0.1476323119777159,True,severe,under,False
+3,simple,german_speaking_cat,F,816,PPR,0.79596174282678,True,moderate,under,False
+3,simple,german_speaking_cat,T,1026,PPR,1.0,False,low,over,False
+3,simple,religious_cat,F,787,PPR,0.7209775967413442,True,high,under,False
+3,simple,religious_cat,T,1055,PPR,1.0,False,low,over,False
+3,simple,Act1,A08,1842,PPR,1.0,False,low,over,False
+3,simple,Act2,A12,1842,PPR,1.0,False,low,over,False
+3,simple,Act3,A01,152,PPR,0.0,True,severe,under,False
+3,simple,Act3,A03,828,PPR,1.0,False,low,over,False
+3,simple,Act3,A11,862,PPR,1.0,False,low,over,False
+3,simple,gender_cat,F,796,PPR,0.9706815972868458,False,low,under,False
+3,simple,gender_cat,T,1046,PPR,1.0,False,low,over,False
+3,simple,citizen_cat,F,823,PPR,0.9667770768488156,False,low,under,False
+3,simple,citizen_cat,T,1019,PPR,1.0,False,low,over,False
+3,simple,age_group,18-29,26,PPR,1.0543889722162705,False,low,over,True
+3,simple,age_group,30-44,458,PPR,1.02713140577295,False,low,over,False
+3,simple,age_group,45-64,1181,PPR,1.0,False,low,over,False
+3,simple,age_group,65+,177,PPR,0.9850494940434036,False,low,under,False
+3,simple,german_speaking_cat,F,816,PPR,1.0008048384072012,False,low,over,False
+3,simple,german_speaking_cat,T,1026,PPR,1.0,False,low,over,False
+3,simple,religious_cat,F,787,PPR,0.9664947453140004,False,low,under,False
+3,simple,religious_cat,T,1055,PPR,1.0,False,low,over,False
+3,simple,Act1,A08,1842,PPV,1.0,False,low,over,False
+3,simple,Act2,A12,1842,PPV,1.0,False,low,over,False
+3,simple,Act3,A01,152,PPV,,False,,,False
+3,simple,Act3,A03,828,PPV,0.9592182420320238,False,low,under,False
+3,simple,Act3,A11,862,PPV,1.0,False,low,over,False
+3,simple,gender_cat,F,796,PPV,0.9438718662952646,False,low,under,False
+3,simple,gender_cat,T,1046,PPV,1.0,False,low,over,False
+3,simple,citizen_cat,F,823,PPV,0.8456807780320366,False,moderate,under,False
+3,simple,citizen_cat,T,1019,PPV,1.0,False,low,over,False
+3,simple,age_group,18-29,26,PPV,0.979090909090909,False,low,under,True
+3,simple,age_group,30-44,458,PPV,1.0523769160132797,False,low,over,False
+3,simple,age_group,45-64,1181,PPV,1.0,False,low,over,False
+3,simple,age_group,65+,177,PPV,0.6842004955212503,True,high,under,False
+3,simple,german_speaking_cat,F,816,PPV,0.9494766968985467,False,low,under,False
+3,simple,german_speaking_cat,T,1026,PPV,1.0,False,low,over,False
+3,simple,religious_cat,F,787,PPV,0.9096351415491556,False,low,under,False
+3,simple,religious_cat,T,1055,PPV,1.0,False,low,over,False
+3,simple,Act1,A08,1842,FDR,1.0,False,low,lower,False
+3,simple,Act2,A12,1842,FDR,1.0,False,low,lower,False
+3,simple,Act3,A01,152,FDR,,False,,,False
+3,simple,Act3,A03,828,FDR,1.023839336459221,False,low,higher,False
+3,simple,Act3,A11,862,FDR,1.0,False,low,lower,False
+3,simple,gender_cat,F,796,FDR,1.0330165492380796,False,low,higher,False
+3,simple,gender_cat,T,1046,FDR,1.0,False,low,lower,False
+3,simple,citizen_cat,F,823,FDR,1.0977443609022557,False,low,higher,False
+3,simple,citizen_cat,T,1019,FDR,1.0,False,low,lower,False
+3,simple,age_group,18-29,26,FDR,1.01215859030837,False,low,higher,True
+3,simple,age_group,30-44,458,FDR,0.9695429387059344,False,low,lower,False
+3,simple,age_group,45-64,1181,FDR,1.0,False,low,lower,False
+3,simple,age_group,65+,177,FDR,1.1836367162607706,False,moderate,higher,False
+3,simple,german_speaking_cat,F,816,FDR,1.0296494257661142,False,low,higher,False
+3,simple,german_speaking_cat,T,1026,FDR,1.0,False,low,lower,False
+3,simple,religious_cat,F,787,FDR,1.0543958120201655,False,low,higher,False
+3,simple,religious_cat,T,1055,FDR,1.0,False,low,lower,False
+3,simple,Act1,A08,1842,FOR,,False,,,False
+3,simple,Act2,A12,1842,FOR,,False,,,False
+3,simple,Act3,A01,152,FOR,,False,,,False
+3,simple,Act3,A03,828,FOR,,False,,,False
+3,simple,Act3,A11,862,FOR,,False,,,False
+3,simple,gender_cat,F,796,FOR,,False,,,False
+3,simple,gender_cat,T,1046,FOR,,False,,,False
+3,simple,citizen_cat,F,823,FOR,,False,,,False
+3,simple,citizen_cat,T,1019,FOR,,False,,,False
+3,simple,age_group,18-29,26,FOR,,False,,,True
+3,simple,age_group,30-44,458,FOR,,False,,,False
+3,simple,age_group,45-64,1181,FOR,,False,,,False
+3,simple,age_group,65+,177,FOR,,False,,,False
+3,simple,german_speaking_cat,F,816,FOR,,False,,,False
+3,simple,german_speaking_cat,T,1026,FOR,,False,,,False
+3,simple,religious_cat,F,787,FOR,,False,,,False
+3,simple,religious_cat,T,1055,FOR,,False,,,False
+3,simple,Act1,A08,1842,FPR,1.0,False,low,lower,False
+3,simple,Act2,A12,1842,FPR,1.0,False,low,lower,False
+3,simple,Act3,A01,152,FPR,0.0,True,severe,lower,False
+3,simple,Act3,A03,828,FPR,1.0,False,low,lower,False
+3,simple,Act3,A11,862,FPR,1.0,False,low,lower,False
+3,simple,gender_cat,F,796,FPR,0.9604904958925464,False,low,lower,False
+3,simple,gender_cat,T,1046,FPR,1.0,False,low,lower,False
+3,simple,citizen_cat,F,823,FPR,0.9620689655172414,False,low,lower,False
+3,simple,citizen_cat,T,1019,FPR,1.0,False,low,lower,False
+3,simple,age_group,18-29,26,FPR,1.0849097348190375,False,low,higher,True
+3,simple,age_group,30-44,458,FPR,1.0382344658338865,False,low,higher,False
+3,simple,age_group,45-64,1181,FPR,1.0,False,low,lower,False
+3,simple,age_group,65+,177,FPR,1.0012647780743218,False,low,higher,False
+3,simple,german_speaking_cat,F,816,FPR,1.0048150666760185,False,low,higher,False
+3,simple,german_speaking_cat,T,1026,FPR,1.0,False,low,lower,False
+3,simple,religious_cat,F,787,FPR,0.9568702575691816,False,low,lower,False
+3,simple,religious_cat,T,1055,FPR,1.0,False,low,lower,False
+3,simple,Act1,A08,1842,FNR,,False,,,False
+3,simple,Act2,A12,1842,FNR,,False,,,False
+3,simple,Act3,A01,152,FNR,,False,,,False
+3,simple,Act3,A03,828,FNR,,False,,,False
+3,simple,Act3,A11,862,FNR,,False,,,False
+3,simple,gender_cat,F,796,FNR,,False,,,False
+3,simple,gender_cat,T,1046,FNR,,False,,,False
+3,simple,citizen_cat,F,823,FNR,,False,,,False
+3,simple,citizen_cat,T,1019,FNR,,False,,,False
+3,simple,age_group,18-29,26,FNR,,False,,,True
+3,simple,age_group,30-44,458,FNR,,False,,,False
+3,simple,age_group,45-64,1181,FNR,,False,,,False
+3,simple,age_group,65+,177,FNR,,False,,,False
+3,simple,german_speaking_cat,F,816,FNR,,False,,,False
+3,simple,german_speaking_cat,T,1026,FNR,,False,,,False
+3,simple,religious_cat,F,787,FNR,,False,,,False
+3,simple,religious_cat,T,1055,FNR,,False,,,False
+3,simple,Act1,A08,1842,TPR,1.0,False,low,over,False
+3,simple,Act2,A12,1842,TPR,1.0,False,low,over,False
+3,simple,Act3,A01,152,TPR,,False,,,False
+3,simple,Act3,A03,828,TPR,1.0,False,low,over,False
+3,simple,Act3,A11,862,TPR,1.0,False,low,over,False
+3,simple,gender_cat,F,796,TPR,1.0,False,low,over,False
+3,simple,gender_cat,T,1046,TPR,1.0,False,low,over,False
+3,simple,citizen_cat,F,823,TPR,1.0,False,low,over,False
+3,simple,citizen_cat,T,1019,TPR,1.0,False,low,over,False
+3,simple,age_group,18-29,26,TPR,1.0,False,low,over,True
+3,simple,age_group,30-44,458,TPR,1.0,False,low,over,False
+3,simple,age_group,45-64,1181,TPR,1.0,False,low,over,False
+3,simple,age_group,65+,177,TPR,1.0,False,low,over,False
+3,simple,german_speaking_cat,F,816,TPR,1.0,False,low,over,False
+3,simple,german_speaking_cat,T,1026,TPR,1.0,False,low,over,False
+3,simple,religious_cat,F,787,TPR,1.0,False,low,over,False
+3,simple,religious_cat,T,1055,TPR,1.0,False,low,over,False
+5,complex,Act1,A08,1695,PPR,1.0,False,low,over,False
+5,complex,Act2,A12,1695,PPR,1.0,False,low,over,False
+5,complex,Act3,A03,864,PPR,1.0,False,low,over,False
+5,complex,Act3,A11,831,PPR,0.9733924611973394,False,low,under,False
+5,complex,Act4,A03,831,PPR,0.9733924611973394,False,low,under,False
+5,complex,Act4,A11,864,PPR,1.0,False,low,over,False
+5,complex,Act5,A01,577,PPR,0.0,True,severe,under,False
+5,complex,Act5,A05,639,PPR,1.0,False,low,over,False
+5,complex,Act5,A06,479,PPR,0.3928012519561815,True,severe,under,False
+5,complex,Res1,Front Desk,844,PPR,1.1497584541062802,False,moderate,over,False
+5,complex,Res1,Online System,851,PPR,1.0,False,low,over,False
+5,complex,Res2,HR-dummy,1191,PPR,1.0,False,low,over,False
+5,complex,Res2,HR-pro,504,PPR,0.3734567901234567,True,severe,under,False
+5,complex,Res3,HR-dummy,847,PPR,1.0,False,low,over,False
+5,complex,Res3,HR-pro,318,PPR,0.2749445676274945,True,severe,under,False
+5,complex,Res3,Senior Partner,530,PPR,0.6984478935698448,True,high,under,False
+5,complex,Res4,HR-dummy,839,PPR,1.0,False,low,over,False
+5,complex,Res4,HR-pro,308,PPR,0.3248847926267281,True,severe,under,False
+5,complex,Res4,Senior Partner,548,PPR,0.7258064516129032,True,high,under,False
+5,complex,Res5,Coding Interviewer,639,PPR,1.0,False,low,over,False
+5,complex,Res5,HR-dummy,223,PPR,0.0,True,severe,under,False
+5,complex,Res5,HR-pro,187,PPR,0.0688575899843505,True,severe,under,False
+5,complex,Res5,Senior Partner,354,PPR,0.0,True,severe,under,False
+5,complex,Res5,deepResearch Inc.,292,PPR,0.3239436619718309,True,severe,under,False
+5,complex,gender_cat,F,721,PPR,0.6481481481481481,True,high,under,False
+5,complex,gender_cat,T,974,PPR,1.0,False,low,over,False
+5,complex,citizen_cat,F,766,PPR,0.7181467181467182,True,high,under,False
+5,complex,citizen_cat,T,929,PPR,1.0,False,low,over,False
+5,complex,age_group,18-29,20,PPR,0.019163763066202,True,severe,under,True
+5,complex,age_group,30-44,424,PPR,0.4024390243902439,True,severe,under,False
+5,complex,age_group,45-64,1084,PPR,1.0,False,low,over,False
+5,complex,age_group,65+,167,PPR,0.1289198606271777,True,severe,under,False
+5,complex,german_speaking_cat,F,726,PPR,0.6542750929368029,True,high,under,False
+5,complex,german_speaking_cat,T,969,PPR,1.0,False,low,over,False
+5,complex,religious_cat,F,725,PPR,0.6792452830188679,True,high,under,False
+5,complex,religious_cat,T,970,PPR,1.0,False,low,over,False
+5,complex,Act1,A08,1695,PPR,1.0,False,low,over,False
+5,complex,Act2,A12,1695,PPR,1.0,False,low,over,False
+5,complex,Act3,A03,864,PPR,1.0,False,low,over,False
+5,complex,Act3,A11,831,PPR,1.012047035468714,False,low,over,False
+5,complex,Act4,A03,831,PPR,1.012047035468714,False,low,over,False
+5,complex,Act4,A11,864,PPR,1.0,False,low,over,False
+5,complex,Act5,A01,577,PPR,0.0,True,severe,under,False
+5,complex,Act5,A05,639,PPR,1.0,False,low,over,False
+5,complex,Act5,A06,479,PPR,0.524008350730689,True,high,under,False
+5,complex,Res1,Front Desk,844,PPR,1.159294365455503,False,moderate,over,False
+5,complex,Res1,Online System,851,PPR,1.0,False,low,over,False
+5,complex,Res2,HR-dummy,1191,PPR,1.0,False,low,over,False
+5,complex,Res2,HR-pro,504,PPR,0.8825139623750734,False,moderate,under,False
+5,complex,Res3,HR-dummy,847,PPR,1.0,False,low,over,False
+5,complex,Res3,HR-pro,318,PPR,0.7323209081147416,True,high,under,False
+5,complex,Res3,Senior Partner,530,PPR,1.116198803497469,False,moderate,over,False
+5,complex,Res4,HR-dummy,839,PPR,1.0,False,low,over,False
+5,complex,Res4,HR-pro,308,PPR,0.8849946136812495,False,moderate,under,False
+5,complex,Res4,Senior Partner,548,PPR,1.111225570991288,False,moderate,over,False
+5,complex,Res5,Coding Interviewer,639,PPR,1.0,False,low,over,False
+5,complex,Res5,HR-dummy,223,PPR,0.0,True,severe,under,False
+5,complex,Res5,HR-pro,187,PPR,0.2352941176470588,True,severe,under,False
+5,complex,Res5,Senior Partner,354,PPR,0.0,True,severe,under,False
+5,complex,Res5,deepResearch Inc.,292,PPR,0.708904109589041,True,high,under,False
+5,complex,gender_cat,F,721,PPR,0.8755843221862639,False,moderate,under,False
+5,complex,gender_cat,T,974,PPR,1.0,False,low,over,False
+5,complex,citizen_cat,F,766,PPR,0.8709638396322469,False,moderate,under,False
+5,complex,citizen_cat,T,929,PPR,1.0,False,low,over,False
+5,complex,age_group,18-29,20,PPR,1.0386759581881533,False,low,over,True
+5,complex,age_group,30-44,424,PPR,1.0288771283939253,False,low,over,False
+5,complex,age_group,45-64,1084,PPR,1.0,False,low,over,False
+5,complex,age_group,65+,167,PPR,0.8368211312566504,False,moderate,under,False
+5,complex,german_speaking_cat,F,726,PPR,0.8732679959445759,False,moderate,under,False
+5,complex,german_speaking_cat,T,969,PPR,1.0,False,low,over,False
+5,complex,religious_cat,F,725,PPR,0.9087833441769682,False,low,under,False
+5,complex,religious_cat,T,970,PPR,1.0,False,low,over,False
+5,complex,Act1,A08,1695,PPV,1.0,False,low,over,False
+5,complex,Act2,A12,1695,PPV,1.0,False,low,over,False
+5,complex,Act3,A03,864,PPV,1.0,False,low,over,False
+5,complex,Act3,A11,831,PPV,1.0767991225849998,False,low,over,False
+5,complex,Act4,A03,831,PPV,1.0767991225849998,False,low,over,False
+5,complex,Act4,A11,864,PPV,1.0,False,low,over,False
+5,complex,Act5,A01,577,PPV,,False,,,False
+5,complex,Act5,A05,639,PPV,1.0,False,low,over,False
+5,complex,Act5,A06,479,PPV,0.5896769270357324,True,high,under,False
+5,complex,Res1,Front Desk,844,PPV,0.8856192111881248,False,moderate,under,False
+5,complex,Res1,Online System,851,PPV,1.0,False,low,over,False
+5,complex,Res2,HR-dummy,1191,PPV,1.0,False,low,over,False
+5,complex,Res2,HR-pro,504,PPV,0.8904112317036742,False,moderate,under,False
+5,complex,Res3,HR-dummy,847,PPV,1.0,False,low,over,False
+5,complex,Res3,HR-pro,318,PPV,1.1660920955429697,False,moderate,over,False
+5,complex,Res3,Senior Partner,530,PPV,1.1311886586695747,False,moderate,over,False
+5,complex,Res4,HR-dummy,839,PPV,1.0,False,low,over,False
+5,complex,Res4,HR-pro,308,PPV,0.9885593000983588,False,low,under,False
+5,complex,Res4,Senior Partner,548,PPV,0.9604217356042172,False,low,under,False
+5,complex,Res5,Coding Interviewer,639,PPV,1.0,False,low,over,False
+5,complex,Res5,HR-dummy,223,PPV,,False,,,False
+5,complex,Res5,HR-pro,187,PPV,0.5822028750759263,True,high,under,False
+5,complex,Res5,Senior Partner,354,PPV,,False,,,False
+5,complex,Res5,deepResearch Inc.,292,PPV,0.5912656144088312,True,high,under,False
+5,complex,gender_cat,F,721,PPV,0.8948571428571428,False,moderate,under,False
+5,complex,gender_cat,T,974,PPV,1.0,False,low,over,False
+5,complex,citizen_cat,F,766,PPV,0.9409742587161944,False,low,under,False
+5,complex,citizen_cat,T,929,PPV,1.0,False,low,over,False
+5,complex,age_group,18-29,20,PPV,1.0466267257098203,False,low,over,True
+5,complex,age_group,30-44,424,PPV,1.117825822696883,False,moderate,over,False
+5,complex,age_group,45-64,1084,PPV,1.0,False,low,over,False
+5,complex,age_group,65+,167,PPV,0.8890265623789979,False,moderate,under,False
+5,complex,german_speaking_cat,F,726,PPV,0.9722128832705756,False,low,under,False
+5,complex,german_speaking_cat,T,969,PPV,1.0,False,low,over,False
+5,complex,religious_cat,F,725,PPV,0.9580431177446104,False,low,under,False
+5,complex,religious_cat,T,970,PPV,1.0,False,low,over,False
+5,complex,Act1,A08,1695,FDR,1.0,False,low,lower,False
+5,complex,Act2,A12,1695,FDR,1.0,False,low,lower,False
+5,complex,Act3,A03,864,FDR,1.0,False,low,lower,False
+5,complex,Act3,A11,831,FDR,0.8854377729395034,False,moderate,lower,False
+5,complex,Act4,A03,831,FDR,0.8854377729395034,False,moderate,lower,False
+5,complex,Act4,A11,864,FDR,1.0,False,low,lower,False
+5,complex,Act5,A01,577,FDR,,False,,,False
+5,complex,Act5,A05,639,FDR,1.0,False,low,lower,False
+5,complex,Act5,A06,479,FDR,1.9696582092681905,True,severe,higher,False
+5,complex,Res1,Front Desk,844,FDR,1.2238595438175268,False,moderate,higher,False
+5,complex,Res1,Online System,851,FDR,1.0,False,low,lower,False
+5,complex,Res2,HR-dummy,1191,FDR,1.0,False,low,lower,False
+5,complex,Res2,HR-pro,504,FDR,1.195190295463413,False,moderate,higher,False
+5,complex,Res3,HR-dummy,847,FDR,1.0,False,low,lower,False
+5,complex,Res3,HR-pro,318,FDR,0.7697559310462536,True,moderate,lower,False
+5,complex,Res3,Senior Partner,530,FDR,0.818140589569161,False,moderate,lower,False
+5,complex,Res4,HR-dummy,839,FDR,1.0,False,low,lower,False
+5,complex,Res4,HR-pro,308,FDR,1.01959219858156,False,low,higher,False
+5,complex,Res4,Senior Partner,548,FDR,1.0677777777777775,False,low,higher,False
+5,complex,Res5,Coding Interviewer,639,FDR,1.0,False,low,lower,False
+5,complex,Res5,HR-dummy,223,FDR,,False,,,False
+5,complex,Res5,HR-pro,187,FDR,1.9873205741626796,True,severe,higher,False
+5,complex,Res5,Senior Partner,354,FDR,,False,,,False
+5,complex,Res5,deepResearch Inc.,292,FDR,1.965903890160183,True,severe,higher,False
+5,complex,gender_cat,F,721,FDR,1.1936842105263157,False,moderate,higher,False
+5,complex,gender_cat,T,974,FDR,1.0,False,low,lower,False
+5,complex,citizen_cat,F,766,FDR,1.1036090139556165,False,moderate,higher,False
+5,complex,citizen_cat,T,929,FDR,1.0,False,low,lower,False
+5,complex,age_group,18-29,20,FDR,0.9276767676767677,False,low,lower,True
+5,complex,age_group,30-44,424,FDR,0.8172390572390572,False,moderate,lower,False
+5,complex,age_group,45-64,1084,FDR,1.0,False,low,lower,False
+5,complex,age_group,65+,167,FDR,1.1721321321321323,False,moderate,higher,False
+5,complex,german_speaking_cat,F,726,FDR,1.0469602272727274,False,low,higher,False
+5,complex,german_speaking_cat,T,969,FDR,1.0,False,low,lower,False
+5,complex,religious_cat,F,725,FDR,1.072079772079772,False,low,higher,False
+5,complex,religious_cat,T,970,FDR,1.0,False,low,lower,False
+5,complex,Act1,A08,1695,FOR,1.0,False,low,lower,False
+5,complex,Act2,A12,1695,FOR,1.0,False,low,lower,False
+5,complex,Act3,A03,864,FOR,1.0,False,low,lower,False
+5,complex,Act3,A11,831,FOR,1.3907142857142856,True,high,higher,False
+5,complex,Act4,A03,831,FOR,1.3907142857142856,True,high,higher,False
+5,complex,Act4,A11,864,FOR,1.0,False,low,lower,False
+5,complex,Act5,A01,577,FOR,,False,,,False
+5,complex,Act5,A05,639,FOR,,False,,,False
+5,complex,Act5,A06,479,FOR,,False,,,False
+5,complex,Res1,Front Desk,844,FOR,0.4923780487804877,True,severe,lower,False
+5,complex,Res1,Online System,851,FOR,1.0,False,low,lower,False
+5,complex,Res2,HR-dummy,1191,FOR,1.0,False,low,lower,False
+5,complex,Res2,HR-pro,504,FOR,1.3619411123227916,True,high,higher,False
+5,complex,Res3,HR-dummy,847,FOR,1.0,False,low,lower,False
+5,complex,Res3,HR-pro,318,FOR,1.9440353460972013,True,severe,higher,False
+5,complex,Res3,Senior Partner,530,FOR,1.4910299003322258,True,high,higher,False
+5,complex,Res4,HR-dummy,839,FOR,1.0,False,low,lower,False
+5,complex,Res4,HR-pro,308,FOR,1.4724123182207016,True,high,higher,False
+5,complex,Res4,Senior Partner,548,FOR,0.8070202329858983,False,moderate,lower,False
+5,complex,Res5,Coding Interviewer,639,FOR,,False,,,False
+5,complex,Res5,HR-dummy,223,FOR,,False,,,False
+5,complex,Res5,HR-pro,187,FOR,,False,,,False
+5,complex,Res5,Senior Partner,354,FOR,,False,,,False
+5,complex,Res5,deepResearch Inc.,292,FOR,,False,,,False
+5,complex,gender_cat,F,721,FOR,1.091823899371069,False,low,higher,False
+5,complex,gender_cat,T,974,FOR,1.0,False,low,lower,False
+5,complex,citizen_cat,F,766,FOR,1.0431472081218274,False,low,higher,False
+5,complex,citizen_cat,T,929,FOR,1.0,False,low,lower,False
+5,complex,age_group,18-29,20,FOR,0.0,True,severe,lower,True
+5,complex,age_group,30-44,424,FOR,1.1210551106924165,False,moderate,higher,False
+5,complex,age_group,45-64,1084,FOR,1.0,False,low,lower,False
+5,complex,age_group,65+,167,FOR,1.827956989247312,True,severe,higher,False
+5,complex,german_speaking_cat,F,726,FOR,0.9363302139037434,False,low,lower,False
+5,complex,german_speaking_cat,T,969,FOR,1.0,False,low,lower,False
+5,complex,religious_cat,F,725,FOR,1.2915851272015657,True,high,higher,False
+5,complex,religious_cat,T,970,FOR,1.0,False,low,lower,False
+5,complex,Act1,A08,1695,FPR,1.0,False,low,lower,False
+5,complex,Act2,A12,1695,FPR,1.0,False,low,lower,False
+5,complex,Act3,A03,864,FPR,1.0,False,low,lower,False
+5,complex,Act3,A11,831,FPR,0.9522501743281662,False,low,lower,False
+5,complex,Act4,A03,831,FPR,0.9522501743281662,False,low,lower,False
+5,complex,Act4,A11,864,FPR,1.0,False,low,lower,False
+5,complex,Act5,A01,577,FPR,0.0,True,severe,lower,False
+5,complex,Act5,A05,639,FPR,1.0,False,low,lower,False
+5,complex,Act5,A06,479,FPR,0.4637223974763407,True,severe,lower,False
+5,complex,Res1,Front Desk,844,FPR,1.3763295099061523,True,high,higher,False
+5,complex,Res1,Online System,851,FPR,1.0,False,low,lower,False
+5,complex,Res2,HR-dummy,1191,FPR,1.0,False,low,lower,False
+5,complex,Res2,HR-pro,504,FPR,0.9642763297839062,False,low,lower,False
+5,complex,Res3,HR-dummy,847,FPR,1.0,False,low,lower,False
+5,complex,Res3,HR-pro,318,FPR,0.5577807446966325,True,high,lower,False
+5,complex,Res3,Senior Partner,530,FPR,1.0532212885154062,False,low,higher,False
+5,complex,Res4,HR-dummy,839,FPR,1.0,False,low,lower,False
+5,complex,Res4,HR-pro,308,FPR,0.8762623152709359,False,moderate,lower,False
+5,complex,Res4,Senior Partner,548,FPR,1.209811046511628,False,moderate,higher,False
+5,complex,Res5,Coding Interviewer,639,FPR,1.0,False,low,lower,False
+5,complex,Res5,HR-dummy,223,FPR,0.0,True,severe,lower,False
+5,complex,Res5,HR-pro,187,FPR,0.1870503597122302,True,severe,lower,False
+5,complex,Res5,Senior Partner,354,FPR,0.0,True,severe,lower,False
+5,complex,Res5,deepResearch Inc.,292,FPR,0.6797752808988764,True,high,lower,False
+5,complex,gender_cat,F,721,FPR,0.9378947368421052,False,low,lower,False
+5,complex,gender_cat,T,974,FPR,1.0,False,low,lower,False
+5,complex,citizen_cat,F,766,FPR,0.8789013991224439,False,moderate,lower,False
+5,complex,citizen_cat,T,929,FPR,1.0,False,low,lower,False
+5,complex,age_group,18-29,20,FPR,0.96,False,low,lower,True
+5,complex,age_group,30-44,424,FPR,0.9125691699604742,False,low,lower,False
+5,complex,age_group,45-64,1084,FPR,1.0,False,low,lower,False
+5,complex,age_group,65+,167,FPR,0.9144827586206896,False,low,lower,False
+5,complex,german_speaking_cat,F,726,FPR,0.8460103092783505,False,moderate,lower,False
+5,complex,german_speaking_cat,T,969,FPR,1.0,False,low,lower,False
+5,complex,religious_cat,F,725,FPR,0.9266677417620814,False,low,lower,False
+5,complex,religious_cat,T,970,FPR,1.0,False,low,lower,False
+5,complex,Act1,A08,1695,FNR,1.0,False,low,lower,False
+5,complex,Act2,A12,1695,FNR,1.0,False,low,lower,False
+5,complex,Act3,A03,864,FNR,1.0,False,low,lower,False
+5,complex,Act3,A11,831,FNR,1.2322784810126584,False,moderate,higher,False
+5,complex,Act4,A03,831,FNR,1.2322784810126584,False,moderate,higher,False
+5,complex,Act4,A11,864,FNR,1.0,False,low,lower,False
+5,complex,Act5,A01,577,FNR,,False,,,False
+5,complex,Act5,A05,639,FNR,,False,,,False
+5,complex,Act5,A06,479,FNR,10.0,True,severe,higher,False
+5,complex,Res1,Front Desk,844,FNR,0.4412491760052736,True,severe,lower,False
+5,complex,Res1,Online System,851,FNR,1.0,False,low,lower,False
+5,complex,Res2,HR-dummy,1191,FNR,1.0,False,low,lower,False
+5,complex,Res2,HR-pro,504,FNR,1.8367346938775508,True,severe,higher,False
+5,complex,Res3,HR-dummy,847,FNR,1.0,False,low,lower,False
+5,complex,Res3,HR-pro,318,FNR,2.591575091575092,True,severe,higher,False
+5,complex,Res3,Senior Partner,530,FNR,1.0227465986394555,False,low,higher,False
+5,complex,Res4,HR-dummy,839,FNR,1.0,False,low,lower,False
+5,complex,Res4,HR-pro,308,FNR,1.746258503401361,True,severe,higher,False
+5,complex,Res4,Senior Partner,548,FNR,0.6873249299719887,True,high,lower,False
+5,complex,Res5,Coding Interviewer,639,FNR,,False,,,False
+5,complex,Res5,HR-dummy,223,FNR,,False,,,False
+5,complex,Res5,HR-pro,187,FNR,10.0,True,severe,higher,False
+5,complex,Res5,Senior Partner,354,FNR,,False,,,False
+5,complex,Res5,deepResearch Inc.,292,FNR,10.0,True,severe,higher,False
+5,complex,gender_cat,F,721,FNR,1.5353535353535357,True,severe,higher,False
+5,complex,gender_cat,T,974,FNR,1.0,False,low,lower,False
+5,complex,citizen_cat,F,766,FNR,1.4246031746031744,True,high,higher,False
+5,complex,citizen_cat,T,929,FNR,1.0,False,low,lower,False
+5,complex,age_group,18-29,20,FNR,0.0,True,severe,lower,True
+5,complex,age_group,30-44,424,FNR,0.9477228424596846,False,low,lower,False
+5,complex,age_group,45-64,1084,FNR,1.0,False,low,lower,False
+5,complex,age_group,65+,167,FNR,2.4967320261437917,True,severe,higher,False
+5,complex,german_speaking_cat,F,726,FNR,1.2474066390041494,False,moderate,higher,False
+5,complex,german_speaking_cat,T,969,FNR,1.0,False,low,lower,False
+5,complex,religious_cat,F,725,FNR,1.5682603686635943,True,severe,higher,False
+5,complex,religious_cat,T,970,FNR,1.0,False,low,lower,False
+5,complex,Act1,A08,1695,TPR,1.0,False,low,over,False
+5,complex,Act2,A12,1695,TPR,1.0,False,low,over,False
+5,complex,Act3,A03,864,TPR,1.0,False,low,over,False
+5,complex,Act3,A11,831,TPR,0.9784927332395686,False,low,under,False
+5,complex,Act4,A03,831,TPR,0.9784927332395686,False,low,under,False
+5,complex,Act4,A11,864,TPR,1.0,False,low,over,False
+5,complex,Act5,A01,577,TPR,,False,,,False
+5,complex,Act5,A05,639,TPR,1.0,False,low,over,False
+5,complex,Act5,A06,479,TPR,0.6419753086419753,True,high,under,False
+5,complex,Res1,Front Desk,844,TPR,1.0836086999408168,False,low,over,False
+5,complex,Res1,Online System,851,TPR,1.0,False,low,over,False
+5,complex,Res2,HR-dummy,1191,TPR,1.0,False,low,over,False
+5,complex,Res2,HR-pro,504,TPR,0.929432013769363,False,low,under,False
+5,complex,Res3,HR-dummy,847,TPR,1.0,False,low,over,False
+5,complex,Res3,HR-pro,318,TPR,0.8724310041103934,False,moderate,under,False
+5,complex,Res3,Senior Partner,530,TPR,0.9981767993456924,False,low,under,False
+5,complex,Res4,HR-dummy,839,TPR,1.0,False,low,over,False
+5,complex,Res4,HR-pro,308,TPR,0.9237400069516858,False,low,under,False
+5,complex,Res4,Senior Partner,548,TPR,1.031952196937169,False,low,over,False
+5,complex,Res5,Coding Interviewer,639,TPR,1.0,False,low,over,False
+5,complex,Res5,HR-dummy,223,TPR,,False,,,False
+5,complex,Res5,HR-pro,187,TPR,0.375,True,severe,under,False
+5,complex,Res5,Senior Partner,354,TPR,,False,,,False
+5,complex,Res5,deepResearch Inc.,292,TPR,0.7543859649122807,True,moderate,under,False
+5,complex,gender_cat,F,721,TPR,0.954112554112554,False,low,under,False
+5,complex,gender_cat,T,974,TPR,1.0,False,low,over,False
+5,complex,citizen_cat,F,766,TPR,0.9626863876863876,False,low,under,False
+5,complex,citizen_cat,T,929,TPR,1.0,False,low,over,False
+5,complex,age_group,18-29,20,TPR,1.0945558739255017,False,low,over,True
+5,complex,age_group,30-44,424,TPR,1.0049431123175656,False,low,over,False
+5,complex,age_group,45-64,1084,TPR,1.0,False,low,over,False
+5,complex,age_group,65+,167,TPR,0.8584751952356874,False,moderate,under,False
+5,complex,german_speaking_cat,F,726,TPR,0.976576886248128,False,low,under,False
+5,complex,german_speaking_cat,T,969,TPR,1.0,False,low,over,False
+5,complex,religious_cat,F,725,TPR,0.9525036109773712,False,low,under,False
+5,complex,religious_cat,T,970,TPR,1.0,False,low,over,False
+5,simple,Act1,A08,1695,PPR,1.0,False,low,over,False
+5,simple,Act2,A12,1695,PPR,1.0,False,low,over,False
+5,simple,Act3,A03,864,PPR,1.0,False,low,over,False
+5,simple,Act3,A11,831,PPR,1.679878048780488,True,severe,over,False
+5,simple,Act4,A03,831,PPR,1.679878048780488,True,severe,over,False
+5,simple,Act4,A11,864,PPR,1.0,False,low,over,False
+5,simple,Act5,A01,577,PPR,0.0,True,severe,under,False
+5,simple,Act5,A05,639,PPR,1.0,False,low,over,False
+5,simple,Act5,A06,479,PPR,0.3755868544600939,True,severe,under,False
+5,simple,gender_cat,F,721,PPR,0.696911196911197,True,high,under,False
+5,simple,gender_cat,T,974,PPR,1.0,False,low,over,False
+5,simple,citizen_cat,F,766,PPR,0.7475149105367793,True,high,under,False
+5,simple,citizen_cat,T,929,PPR,1.0,False,low,over,False
+5,simple,age_group,18-29,20,PPR,0.0161290322580645,True,severe,under,True
+5,simple,age_group,30-44,424,PPR,0.4086021505376344,True,severe,under,False
+5,simple,age_group,45-64,1084,PPR,1.0,False,low,over,False
+5,simple,age_group,65+,167,PPR,0.1505376344086021,True,severe,under,False
+5,simple,german_speaking_cat,F,726,PPR,0.6936416184971098,True,high,under,False
+5,simple,german_speaking_cat,T,969,PPR,1.0,False,low,over,False
+5,simple,religious_cat,F,725,PPR,0.7269155206286837,True,high,under,False
+5,simple,religious_cat,T,970,PPR,1.0,False,low,over,False
+5,simple,Act1,A08,1695,PPR,1.0,False,low,over,False
+5,simple,Act2,A12,1695,PPR,1.0,False,low,over,False
+5,simple,Act3,A03,864,PPR,1.0,False,low,over,False
+5,simple,Act3,A11,831,PPR,1.7465880073963194,True,severe,over,False
+5,simple,Act4,A03,831,PPR,1.7465880073963194,True,severe,over,False
+5,simple,Act4,A11,864,PPR,1.0,False,low,over,False
+5,simple,Act5,A01,577,PPR,0.0,True,severe,under,False
+5,simple,Act5,A05,639,PPR,1.0,False,low,over,False
+5,simple,Act5,A06,479,PPR,0.5010438413361169,True,high,under,False
+5,simple,gender_cat,F,721,PPR,0.9414583991560412,False,low,under,False
+5,simple,gender_cat,T,974,PPR,1.0,False,low,over,False
+5,simple,citizen_cat,F,766,PPR,0.9065813993324648,False,low,under,False
+5,simple,citizen_cat,T,929,PPR,1.0,False,low,over,False
+5,simple,age_group,18-29,20,PPR,0.8741935483870967,False,moderate,under,True
+5,simple,age_group,30-44,424,PPR,1.0446337999594235,False,low,over,False
+5,simple,age_group,45-64,1084,PPR,1.0,False,low,over,False
+5,simple,age_group,65+,167,PPR,0.977142489215118,False,low,under,False
+5,simple,german_speaking_cat,F,726,PPR,0.9258109205560598,False,low,under,False
+5,simple,german_speaking_cat,T,969,PPR,1.0,False,low,over,False
+5,simple,religious_cat,F,725,PPR,0.972562834496308,False,low,under,False
+5,simple,religious_cat,T,970,PPR,1.0,False,low,over,False
+5,simple,Act1,A08,1695,PPV,1.0,False,low,over,False
+5,simple,Act2,A12,1695,PPV,1.0,False,low,over,False
+5,simple,Act3,A03,864,PPV,1.0,False,low,over,False
+5,simple,Act3,A11,831,PPV,0.8749250833579538,False,moderate,under,False
+5,simple,Act4,A03,831,PPV,0.8749250833579538,False,moderate,under,False
+5,simple,Act4,A11,864,PPV,1.0,False,low,over,False
+5,simple,Act5,A01,577,PPV,,False,,,False
+5,simple,Act5,A05,639,PPV,1.0,False,low,over,False
+5,simple,Act5,A06,479,PPV,0.4862472160356347,True,severe,under,False
+5,simple,gender_cat,F,721,PPV,0.8810043024694997,False,moderate,under,False
+5,simple,gender_cat,T,974,PPV,1.0,False,low,over,False
+5,simple,citizen_cat,F,766,PPV,0.903097523323713,False,low,under,False
+5,simple,citizen_cat,T,929,PPV,1.0,False,low,over,False
+5,simple,age_group,18-29,20,PPV,0.9309309309309308,False,low,under,True
+5,simple,age_group,30-44,424,PPV,1.1097676623992412,False,moderate,over,False
+5,simple,age_group,45-64,1084,PPV,1.0,False,low,over,False
+5,simple,age_group,65+,167,PPV,0.8378378378378378,False,moderate,under,False
+5,simple,german_speaking_cat,F,726,PPV,0.9505989583333334,False,low,under,False
+5,simple,german_speaking_cat,T,969,PPV,1.0,False,low,over,False
+5,simple,religious_cat,F,725,PPV,0.9142421418283488,False,low,under,False
+5,simple,religious_cat,T,970,PPV,1.0,False,low,over,False
+5,simple,Act1,A08,1695,FDR,1.0,False,low,lower,False
+5,simple,Act2,A12,1695,FDR,1.0,False,low,lower,False
+5,simple,Act3,A03,864,FDR,1.0,False,low,lower,False
+5,simple,Act3,A11,831,FDR,1.2379743989207077,False,moderate,higher,False
+5,simple,Act4,A03,831,FDR,1.2379743989207077,False,moderate,higher,False
+5,simple,Act4,A11,864,FDR,1.0,False,low,lower,False
+5,simple,Act5,A01,577,FDR,,False,,,False
+5,simple,Act5,A05,639,FDR,1.0,False,low,lower,False
+5,simple,Act5,A06,479,FDR,2.214078947368421,True,severe,higher,False
+5,simple,gender_cat,F,721,FDR,1.2071406586642044,False,moderate,higher,False
+5,simple,gender_cat,T,974,FDR,1.0,False,low,lower,False
+5,simple,citizen_cat,F,766,FDR,1.1651509951956074,False,moderate,higher,False
+5,simple,citizen_cat,T,929,FDR,1.0,False,low,lower,False
+5,simple,age_group,18-29,20,FDR,1.1022222222222222,False,moderate,higher,True
+5,simple,age_group,30-44,424,FDR,0.8375438596491228,False,moderate,lower,False
+5,simple,age_group,45-64,1084,FDR,1.0,False,low,lower,False
+5,simple,age_group,65+,167,FDR,1.24,False,moderate,higher,False
+5,simple,german_speaking_cat,F,726,FDR,1.0794388609715242,False,low,higher,False
+5,simple,german_speaking_cat,T,969,FDR,1.0,False,low,lower,False
+5,simple,religious_cat,F,725,FDR,1.14398293029872,False,moderate,higher,False
+5,simple,religious_cat,T,970,FDR,1.0,False,low,lower,False
+5,simple,Act1,A08,1695,FOR,1.0,False,low,lower,False
+5,simple,Act2,A12,1695,FOR,1.0,False,low,lower,False
+5,simple,Act3,A03,864,FOR,1.0,False,low,lower,False
+5,simple,Act3,A11,831,FOR,0.0,True,severe,lower,False
+5,simple,Act4,A03,831,FOR,0.0,True,severe,lower,False
+5,simple,Act4,A11,864,FOR,1.0,False,low,lower,False
+5,simple,Act5,A01,577,FOR,,False,,,False
+5,simple,Act5,A05,639,FOR,,False,,,False
+5,simple,Act5,A06,479,FOR,,False,,,False
+5,simple,gender_cat,F,721,FOR,0.7202614379084967,True,high,lower,False
+5,simple,gender_cat,T,974,FOR,1.0,False,low,lower,False
+5,simple,citizen_cat,F,766,FOR,0.9882783882783884,False,low,lower,False
+5,simple,citizen_cat,T,929,FOR,1.0,False,low,lower,False
+5,simple,age_group,18-29,20,FOR,1.951762523191095,True,severe,higher,True
+5,simple,age_group,30-44,424,FOR,1.0953769262807165,False,low,higher,False
+5,simple,age_group,45-64,1084,FOR,1.0,False,low,lower,False
+5,simple,age_group,65+,167,FOR,1.1640029505778215,False,moderate,higher,False
+5,simple,german_speaking_cat,F,726,FOR,0.7377049180327868,True,high,lower,False
+5,simple,german_speaking_cat,T,969,FOR,1.0,False,low,lower,False
+5,simple,religious_cat,F,725,FOR,1.062483994878361,False,low,higher,False
+5,simple,religious_cat,T,970,FOR,1.0,False,low,lower,False
+5,simple,Act1,A08,1695,FPR,1.0,False,low,lower,False
+5,simple,Act2,A12,1695,FPR,1.0,False,low,lower,False
+5,simple,Act3,A03,864,FPR,1.0,False,low,lower,False
+5,simple,Act3,A11,831,FPR,2.2977059884869835,True,severe,higher,False
+5,simple,Act4,A03,831,FPR,2.2977059884869835,True,severe,higher,False
+5,simple,Act4,A11,864,FPR,1.0,False,low,lower,False
+5,simple,Act5,A01,577,FPR,0.0,True,severe,lower,False
+5,simple,Act5,A05,639,FPR,1.0,False,low,lower,False
+5,simple,Act5,A06,479,FPR,0.4984227129337539,True,severe,lower,False
+5,simple,gender_cat,F,721,FPR,1.0198250728862974,False,low,higher,False
+5,simple,gender_cat,T,974,FPR,1.0,False,low,lower,False
+5,simple,citizen_cat,F,766,FPR,0.9658591690724236,False,low,lower,False
+5,simple,citizen_cat,T,929,FPR,1.0,False,low,lower,False
+5,simple,age_group,18-29,20,FPR,0.96,False,low,lower,True
+5,simple,age_group,30-44,424,FPR,0.9495652173913044,False,low,lower,False
+5,simple,age_group,45-64,1084,FPR,1.0,False,low,lower,False
+5,simple,age_group,65+,167,FPR,1.129655172413793,False,moderate,higher,False
+5,simple,german_speaking_cat,F,726,FPR,0.9247370874993524,False,low,lower,False
+5,simple,german_speaking_cat,T,969,FPR,1.0,False,low,lower,False
+5,simple,religious_cat,F,725,FPR,1.058214719187907,False,low,higher,False
+5,simple,religious_cat,T,970,FPR,1.0,False,low,lower,False
+5,simple,Act1,A08,1695,FNR,1.0,False,low,lower,False
+5,simple,Act2,A12,1695,FNR,1.0,False,low,lower,False
+5,simple,Act3,A03,864,FNR,1.0,False,low,lower,False
+5,simple,Act3,A11,831,FNR,0.0,True,severe,lower,False
+5,simple,Act4,A03,831,FNR,0.0,True,severe,lower,False
+5,simple,Act4,A11,864,FNR,1.0,False,low,lower,False
+5,simple,Act5,A01,577,FNR,,False,,,False
+5,simple,Act5,A05,639,FNR,,False,,,False
+5,simple,Act5,A06,479,FNR,10.0,True,severe,higher,False
+5,simple,gender_cat,F,721,FNR,0.9354044648162296,False,low,lower,False
+5,simple,gender_cat,T,974,FNR,1.0,False,low,lower,False
+5,simple,citizen_cat,F,766,FNR,1.2889266817838243,True,high,higher,False
+5,simple,citizen_cat,T,929,FNR,1.0,False,low,lower,False
+5,simple,age_group,18-29,20,FNR,2.227405247813411,True,severe,higher,True
+5,simple,age_group,30-44,424,FNR,0.9118033178183554,False,low,lower,False
+5,simple,age_group,45-64,1084,FNR,1.0,False,low,lower,False
+5,simple,age_group,65+,167,FNR,1.3757503001200482,True,high,higher,False
+5,simple,german_speaking_cat,F,726,FNR,0.921161825726141,False,low,lower,False
+5,simple,german_speaking_cat,T,969,FNR,1.0,False,low,lower,False
+5,simple,religious_cat,F,725,FNR,1.1975806451612905,False,moderate,higher,False
+5,simple,religious_cat,T,970,FNR,1.0,False,low,lower,False
+5,simple,Act1,A08,1695,TPR,1.0,False,low,over,False
+5,simple,Act2,A12,1695,TPR,1.0,False,low,over,False
+5,simple,Act3,A03,864,TPR,1.0,False,low,over,False
+5,simple,Act3,A11,831,TPR,1.372093023255814,True,high,over,False
+5,simple,Act4,A03,831,TPR,1.372093023255814,True,high,over,False
+5,simple,Act4,A11,864,TPR,1.0,False,low,over,False
+5,simple,Act5,A01,577,TPR,,False,,,False
+5,simple,Act5,A05,639,TPR,1.0,False,low,over,False
+5,simple,Act5,A06,479,TPR,0.5061728395061729,True,high,under,False
+5,simple,gender_cat,F,721,TPR,1.010013289648548,False,low,over,False
+5,simple,gender_cat,T,974,TPR,1.0,False,low,over,False
+5,simple,citizen_cat,F,766,TPR,0.9617194932652344,False,low,under,False
+5,simple,citizen_cat,T,929,TPR,1.0,False,low,over,False
+5,simple,age_group,18-29,20,TPR,0.8193908193908194,False,moderate,under,True
+5,simple,age_group,30-44,424,TPR,1.0129778901708726,False,low,over,False
+5,simple,age_group,45-64,1084,TPR,1.0,False,low,over,False
+5,simple,age_group,65+,167,TPR,0.9447094152976504,False,low,under,False
+5,simple,german_speaking_cat,F,726,TPR,1.0123184647302903,False,low,over,False
+5,simple,german_speaking_cat,T,969,TPR,1.0,False,low,over,False
+5,simple,religious_cat,F,725,TPR,0.9727474972191325,False,low,under,False
+5,simple,religious_cat,T,970,TPR,1.0,False,low,over,False
